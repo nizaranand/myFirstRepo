@@ -1,0 +1,4 @@
+ul.horizontalList li, .cta-header .cta-title, .cta-header .cta-tag-line { zoom: 1; float: left; }
+.content-post-list .style-image-left .the-post-container { margin-left: 0; }
+.ie7 input, .ie7 button { vertical-align: middle; }
+#MainMenu .inner-1 { z-index: 9999;}

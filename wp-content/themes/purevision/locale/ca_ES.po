@@ -1,0 +1,3429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pureVISION WP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-01 11:00-0500\n"
+"PO-Revision-Date: 2012-04-01 11:00-0500\n"
+"Last-Translator: Andon <andon.design@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops..., I cannot find that page you are looking for, sorry... (Error 404)"
+msgstr ""
+
+#: 404.php:18
+msgid "Let me help you find it:"
+msgstr ""
+
+#: 404.php:21
+msgid "<strong>Search</strong> for it:"
+msgstr ""
+
+#: 404.php:25
+msgid "<strong>If you typed in a URL...</strong> check the spelling and try reloading the page."
+msgstr ""
+
+#: 404.php:28
+#, php-format
+msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+msgstr ""
+
+#: archive.php:32
+#: page-Blog.php:79
+msgid "Tags: "
+msgstr "Etiquetes:"
+
+#: archive.php:34
+#: page-Blog.php:81
+msgid "Written by"
+msgstr "Publicat per"
+
+#: archive.php:36
+#: page-Blog.php:83
+msgid "Posted in "
+msgstr "Publicat a "
+
+#: archive.php:36
+#: page-Blog.php:83
+msgid "Edit"
+msgstr "Edita"
+
+#: archive.php:36
+#: page-Blog.php:83
+msgid "Leave a comment"
+msgstr "Deixa un comentari"
+
+#: archive.php:36
+#: comments.php:21
+#: page-Blog.php:83
+msgid "1 Comment"
+msgstr "1 Comentari"
+
+#: archive.php:36
+#: comments.php:21
+#: page-Blog.php:83
+msgid "% Comments"
+msgstr "% Comentaris"
+
+#: archive.php:69
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2 class='center'>Disculpa, però encara no hi ha cap entrada per  la categoria %s.</h2>"
+
+#: archive.php:71
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Disculpa, però no hi ha cap entrada per aquesta data.</h2>"
+
+#: archive.php:74
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2 class='center'>Disculpa, però encara no hi ha cap entrada de %s.</h2>"
+
+#: archive.php:76
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>No s'han trobat entrades</h2>"
+
+#: archives.php:25
+msgid "Archive Index Page"
+msgstr ""
+
+#: archives.php:28
+#: image.php:22
+#: page-FullWidth.php:18
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr "<p class=\"serif\">Llegeix la resta d'aquesta entrada &raquo;</p>"
+
+#: archives.php:36
+msgid "Archives by Year:"
+msgstr ""
+
+#: archives.php:41
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:46
+msgid "Archives by Subject:"
+msgstr ""
+
+#: author.php:15
+msgid "About:"
+msgstr ""
+
+#: author.php:18
+msgid "Website:"
+msgstr ""
+
+#: author.php:19
+msgid "Profile:"
+msgstr ""
+
+#: author.php:23
+msgid "Posts by"
+msgstr ""
+
+#: author.php:31
+msgid "No posts by this author."
+msgstr ""
+
+#: author.php:34
+#: page-Contact.php:147
+#: page-FullWidth.php:25
+#: page-PageTemplate2.php:29
+#: page-PageTemplate3.php:29
+#: page-PageTemplate4.php:29
+msgid "Edit this entry."
+msgstr "Edita aquestta entrada."
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "Sense respostes"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats"
+
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "Deixa un comentari"
+
+#: comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deixa un comentari a %s"
+
+#: comments.php:64
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr "<p>Has <a href=\"%s\">d'iniciar sessió</a> per publicar un comentari.</p>"
+
+#: comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr ""
+
+#: comments.php:71
+msgid "Log out of this account"
+msgstr "Sortir del compte"
+
+#: comments.php:71
+msgid "Log out &raquo;"
+msgstr "Sortir &raquo;"
+
+#: comments.php:76
+#: page-Contact.php:186
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:76
+#: comments.php:79
+#: page-Contact.php:194
+#: page-Contact.php:207
+msgid "(required)"
+msgstr "(obligatori)"
+
+#: comments.php:79
+msgid "Mail (will not be published)"
+msgstr "Email (no es publicarà)"
+
+#: comments.php:82
+msgid "Website"
+msgstr ""
+
+#: comments.php:90
+msgid "Submit Comment"
+msgstr "Envia el comentari"
+
+#: footer.php:116
+msgid " is proudly powered by <a href=\"http://wordpress.org/\"><strong>WordPress</strong></a>"
+msgstr ""
+
+#: footer.php:119
+msgid "Entries (RSS)"
+msgstr "Entrades (RSS)"
+
+#: footer.php:122
+msgid "Comments (RSS)"
+msgstr "Comentaris (RSS)"
+
+#: footer.php:127
+#: functions.php:554
+msgid "Back to Top"
+msgstr "Amunt"
+
+#: functions.php:141
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:164
+msgid "Home"
+msgstr ""
+
+#: functions.php:173
+#: functions.php:174
+#: functions.php:175
+#: functions.php:176
+#: functions.php:177
+#: functions.php:178
+#: functions.php:179
+msgid "menu image pre-loader"
+msgstr ""
+
+#: functions.php:194
+msgid "Search for:"
+msgstr "Cerca per:"
+
+#: functions.php:196
+msgid "Search"
+msgstr "Cerca"
+
+#: functions.php:310
+#: functions.php:319
+#, php-format
+msgid "Go back to %s"
+msgstr "Torna a %s"
+
+#: functions.php:366
+#, php-format
+msgid "<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+msgstr ""
+
+#: functions.php:366
+msgid "g:i a"
+msgstr ""
+
+#: functions.php:366
+msgid "F j, Y"
+msgstr ""
+
+#: functions.php:367
+msgid "edit"
+msgstr "edita"
+
+#: functions.php:373
+msgid "Your comment is awaiting moderation."
+msgstr "El teu comentari està pendent de moderació"
+
+#: functions.php:438
+#: functions.php:460
+#: functions.php:482
+#: functions.php:504
+msgid "Read more..."
+msgstr "Segueix llegint..."
+
+#: functions.php:554
+msgid "Top of Page"
+msgstr ""
+
+#: functions.php:845
+msgid "Latest Posts"
+msgstr "Últimes entrades"
+
+#: functions.php:861
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr ""
+
+#: functions.php:968
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr ""
+
+#: functions.php:977
+msgid "A widget area, used as a sidebar for the Portfolio section."
+msgstr ""
+
+#: functions.php:986
+msgid "A widget area, used as a sidebar for the Blog/News section."
+msgstr ""
+
+#: functions.php:995
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr ""
+
+#: functions.php:1004
+msgid "A widget area, used as a sidebar for the Sitemap page."
+msgstr ""
+
+#: functions.php:1013
+msgid "Home Page Before Content"
+msgstr ""
+
+#: functions.php:1015
+msgid "A widget area positioned just above the Home Page Main Content area."
+msgstr ""
+
+#: functions.php:1024
+msgid "Home Page Column 1"
+msgstr ""
+
+#: functions.php:1026
+msgid "A widget area, used as the 1st column in the Main Content area."
+msgstr ""
+
+#: functions.php:1034
+msgid "Home Page Column 2"
+msgstr ""
+
+#: functions.php:1036
+msgid "A widget area, used as the 2nd column in the Main Content area."
+msgstr ""
+
+#: functions.php:1044
+msgid "Home Page Column 3"
+msgstr ""
+
+#: functions.php:1046
+msgid "A widget area, used as the 3rd column in the Main Content area."
+msgstr ""
+
+#: functions.php:1054
+msgid "Home Page Column 4"
+msgstr ""
+
+#: functions.php:1056
+msgid "A widget area, used as the 4th column in the Main Content area."
+msgstr ""
+
+#: functions.php:1065
+msgid "Bottom 1"
+msgstr ""
+
+#: functions.php:1067
+msgid "A widget area, used as the 1st column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: functions.php:1075
+msgid "Bottom 2"
+msgstr ""
+
+#: functions.php:1077
+msgid "A widget area, used as the 2nd column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: functions.php:1085
+msgid "Bottom 3"
+msgstr ""
+
+#: functions.php:1087
+msgid "A widget area, used as the 3rd column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: functions.php:1095
+msgid "Bottom 4"
+msgstr ""
+
+#: functions.php:1097
+msgid "A widget area, used as the 4th column in the Bottom area (just above the footer)."
+msgstr ""
+
+#: functions.php:1106
+msgid "A widget area, used as a sidebar for the Page Template 2."
+msgstr ""
+
+#: functions.php:1115
+msgid "A widget area, used as a sidebar for the Page Template 3."
+msgstr ""
+
+#: functions.php:1124
+msgid "A widget area, used as a sidebar for the Page Template 4."
+msgstr ""
+
+#: functions.php:1133
+msgid "A widget area, used as a sidebar for the Page Template 5."
+msgstr ""
+
+#: functions.php:1142
+msgid "A widget area, used as a sidebar for the Page Template 6."
+msgstr ""
+
+#: functions.php:1151
+msgid "A widget area, used as a sidebar for the Page Template 7."
+msgstr ""
+
+#: functions.php:1160
+msgid "A widget area, used as a sidebar for the Page Template 8."
+msgstr ""
+
+#: header.php:55
+msgid "Feedback"
+msgstr ""
+
+#: header.php:60
+msgid "Subscribe"
+msgstr "Suscriu-te"
+
+#: header.php:85
+msgid "Search..."
+msgstr "Cerca..."
+
+#: header.php:185
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Arxius per la categoria   &#8216;%s&#8217"
+
+#: header.php:188
+#, fuzzy, php-format
+msgid "Search Results for &#8216;<em>%s</em>&#8217;"
+msgstr "Resultats de la cerca per &#8216;<em>%s</em>&#8216;"
+
+#: header.php:190
+msgid "Page Not Found (Error 404)"
+msgstr ""
+
+#: header.php:192
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr ""
+
+#: header.php:194
+#: header.php:196
+#: header.php:198
+#, php-format
+msgid "Archive for %s"
+msgstr "Arxius de %s "
+
+#: header.php:200
+msgid "Author Archive"
+msgstr ""
+
+#: header.php:202
+msgid "Blog Archives"
+msgstr ""
+
+#: image.php:35
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Disculpa, no hi ha arxiu adjunts que encaixin amb el teu criteri de cerca."
+
+#: page-Blog.php:115
+msgid "Not Found"
+msgstr "No s'ha torbat"
+
+#: page-Blog.php:116
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Disculpa, però estàs buscant alguna cosa que no està aquí."
+
+#: page-Blog.php:122
+#, fuzzy
+msgid "Edit this page"
+msgstr "Edita aquestta entrada."
+
+#: page-Contact.php:50
+#: page-Contact.php:189
+msgid "Please enter a name"
+msgstr "Si us plau, escriu un nom"
+
+#: page-Contact.php:52
+#: page-Contact.php:190
+msgid "Your name must consist of at least 2 characters"
+msgstr "El teu nom ha de tenir com a mínim 2 caràcters"
+
+#: page-Contact.php:56
+#: page-Contact.php:58
+#: page-Contact.php:196
+msgid "Please enter a valid email address"
+msgstr "Si us plau, escriu una adreça de correu vàlida"
+
+#: page-Contact.php:63
+msgid "phone number"
+msgstr "Número de telèfon"
+
+#: page-Contact.php:66
+msgid "extension"
+msgstr "extensió"
+
+#: page-Contact.php:70
+#, php-format
+msgid "Please enter a valid %1$s and %2$s"
+msgstr "Si us plau, escriu una  %1$s i una  %2$s vàlides"
+
+#: page-Contact.php:72
+#: page-Contact.php:74
+#, php-format
+msgid "Please enter a valid %s"
+msgstr "Si us plau, escriu una %s vàlida"
+
+#: page-Contact.php:78
+msgid "Please enter your message"
+msgstr "Si us plau, escriu el teu missatge"
+
+#: page-Contact.php:82
+#: page-Contact.php:202
+msgid "ext."
+msgstr "ext."
+
+#: page-Contact.php:83
+msgid "Phone: "
+msgstr "Telèfon:"
+
+#: page-Contact.php:86
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr "Formularo de contacte de %s"
+
+#: page-Contact.php:87
+msgid "Sender's name: "
+msgstr "Nom de qui ho envía: "
+
+#: page-Contact.php:88
+msgid "E-mail: "
+msgstr ""
+
+#: page-Contact.php:90
+msgid "Message: "
+msgstr "Missatge:"
+
+#: page-Contact.php:141
+#: page-PageTemplate2.php:22
+#: page-PageTemplate3.php:22
+#: page-PageTemplate4.php:22
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr "<p class=\"serif\">Llegeix la resta d'aquesta pàgina &raquo;</p>"
+
+#: page-Contact.php:171
+msgid "Email Successfully Sent!"
+msgstr "L'email s'ha enviat correctament"
+
+#: page-Contact.php:172
+#, php-format
+msgid "Thank you <strong>%s</strong> for using our contact form! Your email was successfully sent and we will be in touch with you shortly."
+msgstr "Gràcies <strong>%s</strong> per utilitzar el nostre formulari de contacte! El teu correu s'ha enviat correctament i ens posarem en contacte amb tu molt aviat."
+
+#: page-Contact.php:178
+msgid "Failed to connect to mailserver!"
+msgstr "Error al connectar amb el servidor!"
+
+#: page-Contact.php:184
+msgid "Please use the form below to send us an email:"
+msgstr "Si us plau, utilitza el formulari per enviar-nos un correu"
+
+#: page-Contact.php:186
+msgid "(required, at least 2 characters)"
+msgstr "(obligatori, com a mínim 2 caràcters)"
+
+#: page-Contact.php:188
+msgid "required"
+msgstr "obligatori"
+
+#: page-Contact.php:194
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: page-Contact.php:200
+msgid "Phone"
+msgstr "Telef."
+
+#: page-Contact.php:200
+msgid "(optional)"
+msgstr "(opcional)"
+
+#: page-Contact.php:207
+msgid "Your comment"
+msgstr "El teu comentari"
+
+#: page-Contact.php:209
+msgid "<br />Please enter your message"
+msgstr "<br />Si us plau, escriu el teu missatge"
+
+#: page-Contact.php:221
+msgid "Submit"
+msgstr "Envia"
+
+#: page-Portfolio1Col.php:49
+#: page-Portfolio2Col.php:49
+#: page-Portfolio3Col.php:49
+#: page-Portfolio4Col.php:49
+msgid "Categories"
+msgstr "Categories"
+
+#: page-Portfolio1Col.php:52
+#: page-Portfolio1Col.php:54
+#: page-Portfolio2Col.php:52
+#: page-Portfolio2Col.php:54
+#: page-Portfolio3Col.php:52
+#: page-Portfolio3Col.php:54
+#: page-Portfolio4Col.php:52
+#: page-Portfolio4Col.php:54
+msgid "All"
+msgstr "Totes"
+
+#: page-Portfolio1Col.php:135
+#: page-Portfolio2Col.php:140
+#: page-Portfolio3Col.php:140
+#: page-Portfolio4Col.php:140
+msgid "Portfolio section for this page has not been found!"
+msgstr ""
+
+#: page-Portfolio1Col.php:136
+#: page-Portfolio2Col.php:141
+#: page-Portfolio3Col.php:141
+#: page-Portfolio4Col.php:141
+msgid "<strong>Reason:</strong> No category has been assigned as Portfolio section for this page yet. In order to fix this, go to the theme's options page and assign a category for this page."
+msgstr ""
+
+#: purevision_options_page.php:335
+msgid "pureVISION"
+msgstr ""
+
+#: purevision_options_page.php:366
+msgid "Help"
+msgstr ""
+
+#: purevision_options_page.php:367
+msgid "General Options"
+msgstr ""
+
+#: purevision_options_page.php:368
+msgid "Font Settings"
+msgstr ""
+
+#: purevision_options_page.php:369
+msgid "Custom Colors"
+msgstr ""
+
+#: purevision_options_page.php:370
+msgid "Front Page Sliders"
+msgstr ""
+
+#: purevision_options_page.php:371
+msgid "Portfolio Section"
+msgstr ""
+
+#: purevision_options_page.php:372
+msgid "Blog Section"
+msgstr ""
+
+#: purevision_options_page.php:373
+msgid "Contact Page"
+msgstr ""
+
+#: purevision_options_page.php:374
+msgid "Footer Options"
+msgstr ""
+
+#: purevision_options_page.php:375
+msgid "Statistics"
+msgstr ""
+
+#: purevision_options_page.php:384
+msgid "Settings saved."
+msgstr ""
+
+#: purevision_options_page.php:388
+#, php-format
+msgid "Options <small>(version %1$s)</small>"
+msgstr ""
+
+#: purevision_options_page.php:410
+#: purevision_options_page.php:413
+msgid "Reset to defaults"
+msgstr ""
+
+#: purevision_options_page.php:418
+#: purevision_options_page.php:4844
+msgid "Save Changes"
+msgstr ""
+
+#: purevision_options_page.php:1034
+msgid "Cheatin' uh?"
+msgstr ""
+
+#: purevision_options_page.php:1063
+msgid "pureVISION theme help resources:"
+msgstr ""
+
+#: purevision_options_page.php:1065
+msgid "Documentation"
+msgstr ""
+
+#: purevision_options_page.php:1066
+msgid "Documentation (new window)"
+msgstr ""
+
+#: purevision_options_page.php:1067
+msgid "Video Tutorials (Author's YouTube Tutorials Channel)"
+msgstr ""
+
+#: purevision_options_page.php:1068
+msgid "pureVISION Demo Site"
+msgstr ""
+
+#: purevision_options_page.php:1069
+msgid "pureVISION Shortcodes"
+msgstr ""
+
+#: purevision_options_page.php:1070
+msgid "Get the Code: All of the Home page examples source code is available here."
+msgstr ""
+
+#: purevision_options_page.php:1071
+msgid "Support Forum"
+msgstr ""
+
+#: purevision_options_page.php:1072
+msgid "Contact the Author"
+msgstr ""
+
+#: purevision_options_page.php:1085
+msgid "Custom Logo"
+msgstr ""
+
+#: purevision_options_page.php:1088
+msgid "Enter a URL or upload an image for your logo:"
+msgstr ""
+
+#: purevision_options_page.php:1090
+msgid "Upload Logo"
+msgstr ""
+
+#: purevision_options_page.php:1093
+msgid "To upload an image click on \"Upload Logo\" button. Once the image is uploaded it will give you various options. Click on \"Insert into Post\" button. Once you click on \"Insert into Post\", link with the uploaded image will be inserted into the text field above."
+msgstr ""
+
+#: purevision_options_page.php:1097
+msgid "Top Area Height"
+msgstr ""
+
+#: purevision_options_page.php:1100
+msgid "(Height) in pixels."
+msgstr ""
+
+#: purevision_options_page.php:1101
+msgid "Note: the minimum recommended height is 55px."
+msgstr ""
+
+#: purevision_options_page.php:1105
+msgid "Logo Dimensions"
+msgstr ""
+
+#: purevision_options_page.php:1110
+msgid "(Width X Height) in pixels."
+msgstr ""
+
+#: purevision_options_page.php:1114
+msgid "Slogan Position from the Top"
+msgstr ""
+
+#: purevision_options_page.php:1117
+msgid "from the top."
+msgstr ""
+
+#: purevision_options_page.php:1121
+msgid "Slogan Position from the Left"
+msgstr ""
+
+#: purevision_options_page.php:1124
+msgid "from the left. Enter a number between 0 and 400."
+msgstr ""
+
+#: purevision_options_page.php:1125
+#, php-format
+msgid "Please note that the actual Slogan text can be changed or deleted at %1$sSettings -> General%2$s <strong>Tagline</strong> option."
+msgstr ""
+
+#: purevision_options_page.php:1129
+msgid "Slogan Font Size"
+msgstr ""
+
+#: purevision_options_page.php:1132
+#: purevision_options_page.php:1489
+#: purevision_options_page.php:1545
+#: purevision_options_page.php:4068
+msgid "Font Size: "
+msgstr ""
+
+#: purevision_options_page.php:1162
+msgid "Phone Number Information"
+msgstr ""
+
+#: purevision_options_page.php:1165
+msgid "Use this field to provide a phone number or any other short piece of information (30 character limit for display).  It is displayed near the search box located at the top right corner of the theme."
+msgstr ""
+
+#: purevision_options_page.php:1169
+msgid "Search Box"
+msgstr ""
+
+#: purevision_options_page.php:1173
+msgid "Enable the Search box displayed in the top area of the page."
+msgstr ""
+
+#: purevision_options_page.php:1178
+msgid "Page Peel"
+msgstr ""
+
+#: purevision_options_page.php:1182
+msgid "Enable Page Peel (Display the page curl/peel located in the top right corner of the site).  Could be used for your FeedBurner subscription or advertising."
+msgstr ""
+
+#: purevision_options_page.php:1184
+msgid "Page Peel Link URL:"
+msgstr ""
+
+#: purevision_options_page.php:1189
+msgid "Feedback Button"
+msgstr ""
+
+#: purevision_options_page.php:1193
+msgid "Enable Feedback button (Display the Feedback button located in the most left side of the site)"
+msgstr ""
+
+#: purevision_options_page.php:1195
+msgid "Feedback Button URL:"
+msgstr ""
+
+#: purevision_options_page.php:1200
+msgid "Fix the position of the \"Feedback\" button to prevent it from scrolling with the page."
+msgstr ""
+
+#: purevision_options_page.php:1205
+msgid "Enable prettyPhoto script"
+msgstr ""
+
+#: purevision_options_page.php:1209
+#, php-format
+msgid "Enable %1$sprettyPhoto%2$s script. In case of conflicts with some other lightbox plugins you may wish to disable the %1$sprettyPhoto%2$s script. This script is automatically disabled if you installed and activated the %3$sWP-prettyPhoto%4$s plugin."
+msgstr ""
+
+#: purevision_options_page.php:1214
+msgid "Exclude Pages From Menu"
+msgstr ""
+
+#: purevision_options_page.php:1216
+msgid "Please select the page(s) you would like to be excluded from the top navigation menu. This option will NOT affect the settings in the new WordPress 3.0+ Menu option."
+msgstr ""
+
+#: purevision_options_page.php:1222
+msgid "page ID:"
+msgstr ""
+
+#: purevision_options_page.php:1225
+msgid "Keep in mind that if you exclude a page that has descendants (children pages), they will automatically be excluded from the menu as well!"
+msgstr ""
+
+#: purevision_options_page.php:1229
+msgid "Breadcrumbs"
+msgstr ""
+
+#: purevision_options_page.php:1231
+#: purevision_options_page.php:1234
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: purevision_options_page.php:1240
+#: purevision_options_page.php:1242
+msgid "Top Menu Auto Arrows"
+msgstr ""
+
+#: purevision_options_page.php:1245
+msgid "Show the top navigation menu's auto arrows. Those are the arrows indicating a submenu. "
+msgstr ""
+
+#: purevision_options_page.php:1251
+#: purevision_options_page.php:1253
+msgid "Top Menu Drop Shadows"
+msgstr ""
+
+#: purevision_options_page.php:1256
+msgid "Enable drop shadows to the sub-menus. "
+msgstr ""
+
+#: purevision_options_page.php:1262
+#: purevision_options_page.php:1264
+msgid "Border Under the Menu"
+msgstr ""
+
+#: purevision_options_page.php:1267
+msgid "Remove the border line located under the menu. "
+msgstr ""
+
+#: purevision_options_page.php:1273
+msgid "Default Post Thumbnail"
+msgstr ""
+
+#: purevision_options_page.php:1275
+msgid "Enable Default Thumb"
+msgstr ""
+
+#: purevision_options_page.php:1278
+msgid "Enable default thumbnail for posts (This options is used with the \"pureVISION: Recent Posts\" widget)."
+msgstr ""
+
+#: purevision_options_page.php:1289
+msgid "Set the width of the \"Home Page Column 1\" Widget Area as constant 1/3 width (Applies only to a two column layout, in other words having the first widget area \"Home Page Column 1\" in combination with any of the other widget areas being active)."
+msgstr ""
+
+#: purevision_options_page.php:1295
+msgid "Default Pages Sidebar Position"
+msgstr ""
+
+#: purevision_options_page.php:1297
+#: purevision_options_page.php:1306
+#: purevision_options_page.php:1315
+#: purevision_options_page.php:1324
+#: purevision_options_page.php:1333
+#: purevision_options_page.php:1342
+#: purevision_options_page.php:1351
+#: purevision_options_page.php:1360
+#: purevision_options_page.php:1369
+#: purevision_options_page.php:4374
+#: purevision_options_page.php:4390
+#: purevision_options_page.php:4455
+#: purevision_options_page.php:4676
+msgid "Choose position:"
+msgstr ""
+
+#: purevision_options_page.php:1298
+#: purevision_options_page.php:1307
+#: purevision_options_page.php:1316
+#: purevision_options_page.php:1325
+#: purevision_options_page.php:1334
+#: purevision_options_page.php:1343
+#: purevision_options_page.php:1352
+#: purevision_options_page.php:1361
+#: purevision_options_page.php:1370
+#: purevision_options_page.php:4391
+#: purevision_options_page.php:4456
+#: purevision_options_page.php:4610
+#: purevision_options_page.php:4677
+msgid "Left"
+msgstr ""
+
+#: purevision_options_page.php:1299
+#: purevision_options_page.php:1308
+#: purevision_options_page.php:1317
+#: purevision_options_page.php:1326
+#: purevision_options_page.php:1335
+#: purevision_options_page.php:1344
+#: purevision_options_page.php:1353
+#: purevision_options_page.php:1362
+#: purevision_options_page.php:1371
+#: purevision_options_page.php:4392
+#: purevision_options_page.php:4457
+#: purevision_options_page.php:4612
+#: purevision_options_page.php:4678
+msgid "Right"
+msgstr ""
+
+#: purevision_options_page.php:1300
+msgid "This is the sidebar position for all pages assigned with \"Default Template\"."
+msgstr ""
+
+#: purevision_options_page.php:1304
+msgid "Default Pages Sidebar 2 Position"
+msgstr ""
+
+#: purevision_options_page.php:1309
+msgid "This is the sidebar position for all pages assigned with \"Page Template 2\"."
+msgstr ""
+
+#: purevision_options_page.php:1313
+msgid "Default Pages Sidebar 3 Position"
+msgstr ""
+
+#: purevision_options_page.php:1318
+msgid "This is the sidebar position for all pages assigned with \"Page Template 3\"."
+msgstr ""
+
+#: purevision_options_page.php:1322
+msgid "Default Pages Sidebar 4 Position"
+msgstr ""
+
+#: purevision_options_page.php:1327
+msgid "This is the sidebar position for all pages assigned with \"Page Template 4\"."
+msgstr ""
+
+#: purevision_options_page.php:1331
+msgid "Default Pages Sidebar 5 Position"
+msgstr ""
+
+#: purevision_options_page.php:1336
+msgid "This is the sidebar position for all pages assigned with \"Page Template 5\"."
+msgstr ""
+
+#: purevision_options_page.php:1340
+msgid "Default Pages Sidebar 6 Position"
+msgstr ""
+
+#: purevision_options_page.php:1345
+msgid "This is the sidebar position for all pages assigned with \"Page Template 6\"."
+msgstr ""
+
+#: purevision_options_page.php:1349
+msgid "Default Pages Sidebar 7 Position"
+msgstr ""
+
+#: purevision_options_page.php:1354
+msgid "This is the sidebar position for all pages assigned with \"Page Template 7\"."
+msgstr ""
+
+#: purevision_options_page.php:1358
+msgid "Default Pages Sidebar 8 Position"
+msgstr ""
+
+#: purevision_options_page.php:1363
+msgid "This is the sidebar position for all pages assigned with \"Page Template 8\"."
+msgstr ""
+
+#: purevision_options_page.php:1367
+msgid "Sitemap Page Sidebar Position"
+msgstr ""
+
+#: purevision_options_page.php:1372
+msgid "This is the sidebar position for all pages assigned with \"Sitemap page\" template."
+msgstr ""
+
+#: purevision_options_page.php:1376
+msgid "Excerpt Length"
+msgstr ""
+
+#: purevision_options_page.php:1378
+msgid "Change the excerpt length:"
+msgstr ""
+
+#: purevision_options_page.php:1379
+msgid "Shorten or lengthen the excerpt to suite your personal needs. The number refers to the first number of words from a post."
+msgstr ""
+
+#: purevision_options_page.php:1383
+msgid "Excerpt More Phrase"
+msgstr ""
+
+#: purevision_options_page.php:1385
+msgid "Change the phrase"
+msgstr ""
+
+#: purevision_options_page.php:1387
+msgid "This is the excerpt's 'Read more..' link. Change it to anything you'd like..."
+msgstr ""
+
+#: purevision_options_page.php:1391
+#: purevision_options_page.php:1393
+msgid "Show Comments on Pages"
+msgstr ""
+
+#: purevision_options_page.php:1396
+msgid "Show Comments on Pages. Those are the pages assigned with the 'Default Page', 'Page Template 2', ..., 'Page Template 8' and 'Full-width Page' templates. Additionally, you can 'Allow' these comments from the individual page's configuration."
+msgstr ""
+
+#: purevision_options_page.php:1402
+#: purevision_options_page.php:1404
+msgid "Disable Theme Update Notifier"
+msgstr ""
+
+#: purevision_options_page.php:1407
+msgid "Disable the theme's notification of new updates."
+msgstr ""
+
+#: purevision_options_page.php:1413
+#: purevision_options_page.php:1415
+msgid "Disable TimThumb"
+msgstr ""
+
+#: purevision_options_page.php:1418
+msgid "Disable the use of TimThumb script for cropping images."
+msgstr ""
+
+#: purevision_options_page.php:1424
+#, php-format
+msgid "Enable %1$sstyle.css%2$s"
+msgstr ""
+
+#: purevision_options_page.php:1426
+msgid "Enable \"style.css\""
+msgstr ""
+
+#: purevision_options_page.php:1429
+#, php-format
+msgid "Enable the %1$sstyle.css%2$s located in the theme's root folder. You can then edit that file from %3$sAppearance -> Edit%4$s to add any custom CSS. You would also need to enable this option if you want to use a %5$schild theme%6$s."
+msgstr ""
+
+#: purevision_options_page.php:1444
+msgid "Google WebFont Directory"
+msgstr ""
+
+#: purevision_options_page.php:1446
+msgid "Google Web Fonts"
+msgstr ""
+
+#: purevision_options_page.php:1449
+msgid "Enable Google WebFonts."
+msgstr ""
+
+#: purevision_options_page.php:1452
+msgid "Enable this option and hit \"Update\" to add the Google Fonts to the available fonts listed below."
+msgstr ""
+
+#: purevision_options_page.php:1453
+msgid "Preview the available fonts at"
+msgstr ""
+
+#: purevision_options_page.php:1457
+#: purevision_options_page.php:1647
+#: purevision_options_page.php:2360
+msgid "Update"
+msgstr ""
+
+#: purevision_options_page.php:1463
+msgid "General Font Settings"
+msgstr ""
+
+#: purevision_options_page.php:1466
+#: purevision_options_page.php:1522
+#: purevision_options_page.php:1579
+msgid "Font Family: "
+msgstr ""
+
+#: purevision_options_page.php:1519
+msgid "Top Navigation Menu Font Settings"
+msgstr ""
+
+#: purevision_options_page.php:1575
+msgid "Title Headings Font Settings"
+msgstr ""
+
+#: purevision_options_page.php:1577
+msgid "This font is applied to all h1, h2, h3, h4, h5, h6 - Headings (with small exceptions) and  the Slogan (Tagline):"
+msgstr ""
+
+#: purevision_options_page.php:1608
+msgid "Font Size Coefficient: "
+msgstr ""
+
+#: purevision_options_page.php:1626
+msgid "The Font Size Coefficient is multiplied by the actual heading size in \"em\", thus any coefficient greater than \"1.0\" will cause the font size to inclease and any coefficient less than \"1.0 will produce smaller font size."
+msgstr ""
+
+#: purevision_options_page.php:1638
+msgid "Custom Colors Switch"
+msgstr ""
+
+#: purevision_options_page.php:1640
+msgid "If enabled this option will overwrite the default CSS styles."
+msgstr ""
+
+#: purevision_options_page.php:1641
+msgid "Custom colors option:"
+msgstr ""
+
+#: purevision_options_page.php:1642
+msgid "Enable"
+msgstr ""
+
+#: purevision_options_page.php:1643
+msgid "Disable"
+msgstr ""
+
+#: purevision_options_page.php:1650
+msgid "Continue with the section below to customize the colors..."
+msgstr ""
+
+#: purevision_options_page.php:1662
+msgid "General Text and Link Colors:"
+msgstr ""
+
+#: purevision_options_page.php:1666
+msgid "Body Text Color"
+msgstr ""
+
+#: purevision_options_page.php:1674
+msgid "Main body text color affecting the entire site."
+msgstr ""
+
+#: purevision_options_page.php:1678
+msgid "Link Color"
+msgstr ""
+
+#: purevision_options_page.php:1686
+msgid "Main link color affecting the entire site."
+msgstr ""
+
+#: purevision_options_page.php:1690
+msgid "Link Hover Color"
+msgstr ""
+
+#: purevision_options_page.php:1698
+msgid "This is the link hover color."
+msgstr ""
+
+#: purevision_options_page.php:1702
+msgid "Headings Color"
+msgstr ""
+
+#: purevision_options_page.php:1710
+msgid "This is the color for general H1, H2, H3, H4 ,H5 ,H6 Headings where applicable."
+msgstr ""
+
+#: purevision_options_page.php:1715
+msgid "Top Section Colors:"
+msgstr ""
+
+#: purevision_options_page.php:1719
+msgid "Top Area Background"
+msgstr ""
+
+#: purevision_options_page.php:1727
+msgid "Site's top section background color. This is the section with the logo, logan, phone number and search box, immediately above the menu."
+msgstr ""
+
+#: purevision_options_page.php:1735
+msgid "Top Area Text Color"
+msgstr ""
+
+#: purevision_options_page.php:1743
+msgid "This color affects the slogan, phone number and search text."
+msgstr ""
+
+#: purevision_options_page.php:1747
+msgid "Top Menu Link Color"
+msgstr ""
+
+#: purevision_options_page.php:1755
+msgid "This is the color of the main menu links."
+msgstr ""
+
+#: purevision_options_page.php:1759
+msgid "Top Menu Active Link Color"
+msgstr ""
+
+#: purevision_options_page.php:1767
+msgid "This is the color of the main menu active/selected link."
+msgstr ""
+
+#: purevision_options_page.php:1771
+msgid "Top Menu Hover Link Color"
+msgstr ""
+
+#: purevision_options_page.php:1779
+msgid "This is the color of the main menu hover link."
+msgstr ""
+
+#: purevision_options_page.php:1784
+msgid "Midsection Colors:"
+msgstr ""
+
+#: purevision_options_page.php:1788
+msgid "Page Title Color"
+msgstr ""
+
+#: purevision_options_page.php:1796
+msgid "This is the color for the title of pages/posts/archives, etc. located in the area underneath the menu."
+msgstr ""
+
+#: purevision_options_page.php:1800
+msgid "Page Title Background Color"
+msgstr ""
+
+#: purevision_options_page.php:1808
+msgid "This is the background color behind the page titles."
+msgstr ""
+
+#: purevision_options_page.php:1812
+msgid "Header/Slider Background"
+msgstr ""
+
+#: purevision_options_page.php:1820
+msgid "This is the color behind the slider as well as page titles area background."
+msgstr ""
+
+#: purevision_options_page.php:1828
+msgid "Main Content Area Background"
+msgstr ""
+
+#: purevision_options_page.php:1836
+msgid "This is the color of the main content wrapper background."
+msgstr ""
+
+#: purevision_options_page.php:1841
+msgid "Home Page Before Content Widget Area Colors:"
+msgstr ""
+
+#: purevision_options_page.php:1845
+msgid "Title Color"
+msgstr ""
+
+#: purevision_options_page.php:1853
+msgid "This is the color for the title of widgets used in this Widget Area, usually an \"H3\" Headings."
+msgstr ""
+
+#: purevision_options_page.php:1857
+#: purevision_options_page.php:4125
+msgid "Text Color"
+msgstr ""
+
+#: purevision_options_page.php:1865
+msgid "This is the default text color applied to this Widget Area."
+msgstr ""
+
+#: purevision_options_page.php:1869
+msgid "Background Color"
+msgstr ""
+
+#: purevision_options_page.php:1877
+msgid "This is the background color."
+msgstr ""
+
+#: purevision_options_page.php:1882
+msgid "Bottom Area Colors:"
+msgstr ""
+
+#: purevision_options_page.php:1883
+#: purevision_options_page.php:1954
+#: purevision_options_page.php:4568
+msgid "Enable This Section"
+msgstr ""
+
+#: purevision_options_page.php:1886
+#: purevision_options_page.php:1957
+msgid "Enable this section."
+msgstr ""
+
+#: purevision_options_page.php:1892
+msgid "Bottom Background Color"
+msgstr ""
+
+#: purevision_options_page.php:1900
+msgid "This is the background color for the bottom area."
+msgstr ""
+
+#: purevision_options_page.php:1904
+msgid "Bottom Titles Color"
+msgstr ""
+
+#: purevision_options_page.php:1912
+msgid "This is the color applied to the bottom area widget titles."
+msgstr ""
+
+#: purevision_options_page.php:1916
+msgid "Bottom Text Color"
+msgstr ""
+
+#: purevision_options_page.php:1924
+msgid "This is the default text color applied to the bottom area."
+msgstr ""
+
+#: purevision_options_page.php:1928
+msgid "Bottom Link Color"
+msgstr ""
+
+#: purevision_options_page.php:1936
+msgid "This is the bottom area link color."
+msgstr ""
+
+#: purevision_options_page.php:1940
+msgid "Bottom Link Hover Color"
+msgstr ""
+
+#: purevision_options_page.php:1948
+msgid "This is the bottom area link hover color."
+msgstr ""
+
+#: purevision_options_page.php:1953
+msgid "Footer Area Colors:"
+msgstr ""
+
+#: purevision_options_page.php:1963
+msgid "Footer Background Color"
+msgstr ""
+
+#: purevision_options_page.php:1971
+msgid "This is the footer background color."
+msgstr ""
+
+#: purevision_options_page.php:1975
+msgid "Footer Text Color"
+msgstr ""
+
+#: purevision_options_page.php:1983
+msgid "This is the footer general text color."
+msgstr ""
+
+#: purevision_options_page.php:1987
+msgid "Footer Link Color"
+msgstr ""
+
+#: purevision_options_page.php:1995
+msgid "This is the footer link color."
+msgstr ""
+
+#: purevision_options_page.php:1999
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: purevision_options_page.php:2007
+msgid "This is the footer link hover color."
+msgstr ""
+
+#: purevision_options_page.php:2016
+msgid "Background Images:"
+msgstr ""
+
+#: purevision_options_page.php:2017
+msgid "Tip: To upload an image click on 'Upload Image' button below. Once the image is uploaded it will give you various options. Click on 'Insert into Post' button. Once you click on 'Insert into Post', link with the uploaded image will be inserted into the corresponding text field below. The background image is placed according to the background-position property. If 'No Repeat' is specified (see below), the image is placed at the element's top center possition."
+msgstr ""
+
+#: purevision_options_page.php:2021
+msgid "Top Background Image"
+msgstr ""
+
+#: purevision_options_page.php:2024
+#: purevision_options_page.php:2060
+#: purevision_options_page.php:2096
+#: purevision_options_page.php:2132
+#: purevision_options_page.php:2168
+#: purevision_options_page.php:2204
+#: purevision_options_page.php:2240
+#: purevision_options_page.php:2276
+msgid "Enter a URL or upload an image:"
+msgstr ""
+
+#: purevision_options_page.php:2026
+#: purevision_options_page.php:2062
+#: purevision_options_page.php:2098
+#: purevision_options_page.php:2134
+#: purevision_options_page.php:2170
+#: purevision_options_page.php:2206
+#: purevision_options_page.php:2242
+#: purevision_options_page.php:2278
+msgid "Upload Image"
+msgstr ""
+
+#: purevision_options_page.php:2030
+#: purevision_options_page.php:2066
+#: purevision_options_page.php:2102
+#: purevision_options_page.php:2138
+msgid "Background  Properties:"
+msgstr ""
+
+#: purevision_options_page.php:2032
+#: purevision_options_page.php:2068
+#: purevision_options_page.php:2104
+#: purevision_options_page.php:2140
+#: purevision_options_page.php:2176
+#: purevision_options_page.php:2212
+#: purevision_options_page.php:2248
+#: purevision_options_page.php:2284
+msgid "No Repeat"
+msgstr ""
+
+#: purevision_options_page.php:2033
+#: purevision_options_page.php:2069
+#: purevision_options_page.php:2105
+#: purevision_options_page.php:2141
+#: purevision_options_page.php:2177
+#: purevision_options_page.php:2213
+#: purevision_options_page.php:2249
+#: purevision_options_page.php:2285
+msgid "Repeat only Horizontally"
+msgstr ""
+
+#: purevision_options_page.php:2034
+#: purevision_options_page.php:2070
+#: purevision_options_page.php:2106
+#: purevision_options_page.php:2142
+#: purevision_options_page.php:2178
+#: purevision_options_page.php:2214
+#: purevision_options_page.php:2250
+#: purevision_options_page.php:2286
+msgid "Repeat only Vertically"
+msgstr ""
+
+#: purevision_options_page.php:2035
+#: purevision_options_page.php:2071
+#: purevision_options_page.php:2107
+#: purevision_options_page.php:2143
+#: purevision_options_page.php:2179
+#: purevision_options_page.php:2215
+#: purevision_options_page.php:2251
+#: purevision_options_page.php:2287
+msgid "Repeat both Vertically and Horizontally"
+msgstr ""
+
+#: purevision_options_page.php:2037
+#: purevision_options_page.php:2073
+#: purevision_options_page.php:2109
+#: purevision_options_page.php:2145
+#: purevision_options_page.php:2181
+#: purevision_options_page.php:2217
+#: purevision_options_page.php:2253
+#: purevision_options_page.php:2289
+msgid "Horizontal:"
+msgstr ""
+
+#: purevision_options_page.php:2039
+#: purevision_options_page.php:2075
+#: purevision_options_page.php:2111
+#: purevision_options_page.php:2147
+#: purevision_options_page.php:2183
+#: purevision_options_page.php:2219
+#: purevision_options_page.php:2255
+#: purevision_options_page.php:2291
+#: purevision_options_page.php:3190
+msgid "left"
+msgstr ""
+
+#: purevision_options_page.php:2040
+#: purevision_options_page.php:2076
+#: purevision_options_page.php:2112
+#: purevision_options_page.php:2148
+#: purevision_options_page.php:2184
+#: purevision_options_page.php:2220
+#: purevision_options_page.php:2256
+#: purevision_options_page.php:2292
+#: purevision_options_page.php:3191
+msgid "right"
+msgstr ""
+
+#: purevision_options_page.php:2041
+#: purevision_options_page.php:2046
+#: purevision_options_page.php:2077
+#: purevision_options_page.php:2082
+#: purevision_options_page.php:2113
+#: purevision_options_page.php:2118
+#: purevision_options_page.php:2149
+#: purevision_options_page.php:2154
+#: purevision_options_page.php:2185
+#: purevision_options_page.php:2190
+#: purevision_options_page.php:2221
+#: purevision_options_page.php:2226
+#: purevision_options_page.php:2257
+#: purevision_options_page.php:2262
+#: purevision_options_page.php:2293
+#: purevision_options_page.php:2298
+#: purevision_options_page.php:3189
+msgid "center"
+msgstr ""
+
+#: purevision_options_page.php:2043
+#: purevision_options_page.php:2079
+#: purevision_options_page.php:2115
+#: purevision_options_page.php:2151
+#: purevision_options_page.php:2187
+#: purevision_options_page.php:2223
+#: purevision_options_page.php:2259
+#: purevision_options_page.php:2295
+msgid "Vertical:"
+msgstr ""
+
+#: purevision_options_page.php:2045
+#: purevision_options_page.php:2081
+#: purevision_options_page.php:2117
+#: purevision_options_page.php:2153
+#: purevision_options_page.php:2189
+#: purevision_options_page.php:2225
+#: purevision_options_page.php:2261
+#: purevision_options_page.php:2297
+msgid "top"
+msgstr ""
+
+#: purevision_options_page.php:2047
+#: purevision_options_page.php:2083
+#: purevision_options_page.php:2119
+#: purevision_options_page.php:2155
+#: purevision_options_page.php:2191
+#: purevision_options_page.php:2227
+#: purevision_options_page.php:2263
+#: purevision_options_page.php:2299
+msgid "bottom"
+msgstr ""
+
+#: purevision_options_page.php:2057
+msgid "Home Page Header Background Image"
+msgstr ""
+
+#: purevision_options_page.php:2093
+msgid "Home Page Before Content Background Image"
+msgstr ""
+
+#: purevision_options_page.php:2129
+msgid "Page Title Background Image"
+msgstr ""
+
+#: purevision_options_page.php:2165
+msgid "Main Content Background Image"
+msgstr ""
+
+#: purevision_options_page.php:2174
+#: purevision_options_page.php:2210
+#: purevision_options_page.php:2246
+#: purevision_options_page.php:2282
+msgid "Background Properties:"
+msgstr ""
+
+#: purevision_options_page.php:2201
+msgid "Bottom Area Background Image  <div style=\"font-size:10px; font-style:italic; color:#929292;\">(Enable the \"Bottom Area Colors\" above to use this section)</div>"
+msgstr ""
+
+#: purevision_options_page.php:2237
+msgid "Footer Background Image <div style=\"font-size:10px; font-style:italic; color:#929292;\">(Enable the \"Footer Area Colors\" above to use this section)</div>"
+msgstr ""
+
+#: purevision_options_page.php:2273
+msgid "One Continuous Background Image That Will Span Across All Sections"
+msgstr ""
+
+#: purevision_options_page.php:2303
+#, php-format
+msgid "For Background color  %1$sTop Area Background %2$s%3$s  will be used."
+msgstr ""
+
+#: purevision_options_page.php:2305
+msgid "Fixed Position"
+msgstr ""
+
+#: purevision_options_page.php:2308
+msgid "Fix the position of the background image so that it is not scrollable."
+msgstr ""
+
+#: purevision_options_page.php:2311
+msgid "Allow Other Sections' Images"
+msgstr ""
+
+#: purevision_options_page.php:2314
+msgid "Enable background images from other sections to show as well, you can achieve sort of layered layout."
+msgstr ""
+
+#: purevision_options_page.php:2318
+#, php-format
+msgid "Note: If you wish to remove the border line under the top navigation menu, the option for that is located under: %1$s General Options %2$s Border Under the Menu %3$s"
+msgstr ""
+
+#: purevision_options_page.php:2328
+msgid "Administrative Tasks:"
+msgstr ""
+
+#: purevision_options_page.php:2331
+msgid "Save the current custom colors."
+msgstr ""
+
+#: purevision_options_page.php:2333
+msgid "A Color Scheme will be saved with an automatic name generated from the current time stamp. Once saved you will be able to choose it from the dropdown below and load it at a later time."
+msgstr ""
+
+#: purevision_options_page.php:2336
+msgid "Save"
+msgstr ""
+
+#: purevision_options_page.php:2341
+msgid "Choose a custom color scheme from the first dropdown below and then choose a task to perform from the second dropdown, then hit the \"Update\" button."
+msgstr ""
+
+#: purevision_options_page.php:2356
+msgid "Note: The \"Default Colors\" cannot be deleted."
+msgstr ""
+
+#: purevision_options_page.php:2375
+msgid "Current Slider"
+msgstr ""
+
+#: purevision_options_page.php:2377
+msgid "Choose a slider:"
+msgstr ""
+
+#: purevision_options_page.php:2380
+msgid "1. Flashmo Grid Slider"
+msgstr ""
+
+#: purevision_options_page.php:2381
+msgid "2. Piecemaker"
+msgstr ""
+
+#: purevision_options_page.php:2382
+msgid "3. Piecemaker 2"
+msgstr ""
+
+#: purevision_options_page.php:2383
+msgid "4. Cycle 1 (full width image)"
+msgstr ""
+
+#: purevision_options_page.php:2384
+msgid "5. Cycle 2 (image with text)"
+msgstr ""
+
+#: purevision_options_page.php:2385
+msgid "6. No Slider"
+msgstr ""
+
+#: purevision_options_page.php:2390
+msgid "Save & Activate"
+msgstr ""
+
+#: purevision_options_page.php:2393
+msgid "Continue with the section below to customize the slider..."
+msgstr ""
+
+#: purevision_options_page.php:2425
+msgid "Flashmo Grid Slider Settings:"
+msgstr ""
+
+#: purevision_options_page.php:2429
+#: purevision_options_page.php:2671
+#: purevision_options_page.php:2925
+#: purevision_options_page.php:4579
+msgid "Image Width"
+msgstr ""
+
+#: purevision_options_page.php:2432
+msgid "The width in pixels of the slider images (940 recommended)."
+msgstr ""
+
+#: purevision_options_page.php:2436
+#: purevision_options_page.php:2678
+#: purevision_options_page.php:2932
+#: purevision_options_page.php:4586
+msgid "Image Height"
+msgstr ""
+
+#: purevision_options_page.php:2439
+msgid "The height in pixels of the slider images (400 recommended)."
+msgstr ""
+
+#: purevision_options_page.php:2443
+msgid "Auto Play"
+msgstr ""
+
+#: purevision_options_page.php:2446
+msgid "True"
+msgstr ""
+
+#: purevision_options_page.php:2447
+msgid "False"
+msgstr ""
+
+#: purevision_options_page.php:2449
+msgid "Set the auto play option, true by default ( or false )."
+msgstr ""
+
+#: purevision_options_page.php:2453
+msgid "Auto Play Duration"
+msgstr ""
+
+#: purevision_options_page.php:2456
+msgid "Number of seconds between transitions, 2.4 seconds by default ( or any number of seconds )."
+msgstr ""
+
+#: purevision_options_page.php:2460
+msgid "Number of Rows"
+msgstr ""
+
+#: purevision_options_page.php:2463
+msgid "Number of rows, in which the images will be sliced, 4 rows by default ( or any number of rows )"
+msgstr ""
+
+#: purevision_options_page.php:2467
+msgid "Number of Columns"
+msgstr ""
+
+#: purevision_options_page.php:2470
+msgid "Number of columns, in which the images will be sliced, 6 columns by default ( or any number of columns )"
+msgstr ""
+
+#: purevision_options_page.php:2474
+msgid "Tween Duration"
+msgstr ""
+
+#: purevision_options_page.php:2477
+msgid "Duration in seconds of the motion tween for each block in the transition."
+msgstr ""
+
+#: purevision_options_page.php:2481
+#: purevision_options_page.php:2699
+msgid "Tween Delay"
+msgstr ""
+
+#: purevision_options_page.php:2484
+msgid "Delay in seconds between each block in the transition."
+msgstr ""
+
+#: purevision_options_page.php:2488
+msgid "Bar Status"
+msgstr ""
+
+#: purevision_options_page.php:2491
+msgid "Hide the Bar"
+msgstr ""
+
+#: purevision_options_page.php:2492
+msgid "Show the Bar"
+msgstr ""
+
+#: purevision_options_page.php:2493
+msgid "Show the Bar and Photo Description"
+msgstr ""
+
+#: purevision_options_page.php:2495
+msgid "This is the area in the slider displaying additional controls and text."
+msgstr ""
+
+#: purevision_options_page.php:2499
+#: purevision_options_page.php:2501
+#: purevision_options_page.php:2790
+#: purevision_options_page.php:2792
+#: purevision_options_page.php:3858
+#: purevision_options_page.php:3860
+msgid "3D Shadow"
+msgstr ""
+
+#: purevision_options_page.php:2504
+#: purevision_options_page.php:2795
+#: purevision_options_page.php:3863
+msgid "Remove the 3D shadow under the slider"
+msgstr ""
+
+#: purevision_options_page.php:2524
+#: purevision_options_page.php:2578
+#: purevision_options_page.php:3385
+#: purevision_options_page.php:3418
+#: purevision_options_page.php:3439
+#: purevision_options_page.php:3490
+#: purevision_options_page.php:3535
+#: purevision_options_page.php:3568
+#: purevision_options_page.php:4152
+#: purevision_options_page.php:4237
+msgid "Image:"
+msgstr ""
+
+#: purevision_options_page.php:2532
+#: purevision_options_page.php:2586
+msgid "Flow:"
+msgstr ""
+
+#: purevision_options_page.php:2539
+#: purevision_options_page.php:2593
+msgid "Direction:"
+msgstr ""
+
+#: purevision_options_page.php:2549
+#: purevision_options_page.php:2603
+msgid "Rotation:"
+msgstr ""
+
+#: purevision_options_page.php:2559
+#: purevision_options_page.php:2613
+#: purevision_options_page.php:3408
+#: purevision_options_page.php:3513
+#: purevision_options_page.php:4208
+#: purevision_options_page.php:4293
+msgid "Slide text"
+msgstr ""
+
+#: purevision_options_page.php:2563
+#: purevision_options_page.php:2617
+msgid "This textfield supports HTML and CSS. The CSS classes used are located in \"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+msgstr ""
+
+#: purevision_options_page.php:2627
+#: purevision_options_page.php:2890
+#: purevision_options_page.php:3792
+msgid "No JavaScript image"
+msgstr ""
+
+#: purevision_options_page.php:2629
+#: purevision_options_page.php:2892
+#: purevision_options_page.php:3794
+msgid "Paste the full path to your image:"
+msgstr ""
+
+#: purevision_options_page.php:2631
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Flashmo slider, you may change that in here"
+msgstr ""
+
+#: purevision_options_page.php:2667
+msgid "Piecemaker Slider Settings:"
+msgstr ""
+
+#: purevision_options_page.php:2674
+msgid "The width of the images to be loaded."
+msgstr ""
+
+#: purevision_options_page.php:2681
+msgid "The height of the images to be loaded."
+msgstr ""
+
+#: purevision_options_page.php:2685
+msgid "Number of segments"
+msgstr ""
+
+#: purevision_options_page.php:2688
+msgid "Number of segments, in which the images will be sliced."
+msgstr ""
+
+#: purevision_options_page.php:2692
+msgid "Tween Time"
+msgstr ""
+
+#: purevision_options_page.php:2695
+msgid "Number of seconds for each element to be turned."
+msgstr ""
+
+#: purevision_options_page.php:2702
+msgid "Number of seconds from one element starting to turn to the next element starting."
+msgstr ""
+
+#: purevision_options_page.php:2706
+msgid "Tween Type"
+msgstr ""
+
+#: purevision_options_page.php:2751
+#, php-format
+msgid "Type of transition from Caurina&#39;s Tweener class. Find all possible transition types and more information about Tweener in the official %1$sdocumentation%2$s."
+msgstr ""
+
+#: purevision_options_page.php:2755
+msgid "Z Distance"
+msgstr ""
+
+#: purevision_options_page.php:2758
+msgid "To which extent are the cubes moved on z axis when being tweened. Negative values bring the cube closer to the camera, positive values take it further away. A good range is roughly between -200 and 700."
+msgstr ""
+
+#: purevision_options_page.php:2762
+msgid "Expand"
+msgstr ""
+
+#: purevision_options_page.php:2765
+msgid "To which extent are the cubes moved away from each other when tweening."
+msgstr ""
+
+#: purevision_options_page.php:2769
+msgid "Shadow Darkness"
+msgstr ""
+
+#: purevision_options_page.php:2772
+msgid "To which extent are the sides shadowed, when the elements are tweening and the sided move towards the background. 100 is black, 0 is no darkening."
+msgstr ""
+
+#: purevision_options_page.php:2776
+#: purevision_options_page.php:2973
+msgid "Autoplay"
+msgstr ""
+
+#: purevision_options_page.php:2779
+msgid "Number of seconds to the next image."
+msgstr ""
+
+#: purevision_options_page.php:2783
+msgid "Text Distance"
+msgstr ""
+
+#: purevision_options_page.php:2786
+msgid "Distance of the info text to the borders of its background."
+msgstr ""
+
+#: purevision_options_page.php:2806
+msgid "Text Background"
+msgstr ""
+
+#: purevision_options_page.php:2814
+msgid "Description text background"
+msgstr ""
+
+#: purevision_options_page.php:2818
+msgid "Inner Color"
+msgstr ""
+
+#: purevision_options_page.php:2826
+msgid "Sides color of the sliced elements"
+msgstr ""
+
+#: purevision_options_page.php:2843
+#: purevision_options_page.php:2869
+msgid "Edit the info text, erase all for none:"
+msgstr ""
+
+#: purevision_options_page.php:2847
+#: purevision_options_page.php:2873
+msgid "Study the above text for slider's specific syntax"
+msgstr ""
+
+#: purevision_options_page.php:2850
+#: purevision_options_page.php:2876
+msgid "Upload Slide:"
+msgstr ""
+
+#: purevision_options_page.php:2894
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Piecemaker slider, you may change that in here"
+msgstr ""
+
+#: purevision_options_page.php:2918
+msgid "Piecemaker 2 Slider Settings:"
+msgstr ""
+
+#: purevision_options_page.php:2921
+msgid "General Settings:"
+msgstr ""
+
+#: purevision_options_page.php:2928
+msgid "The width of every image."
+msgstr ""
+
+#: purevision_options_page.php:2935
+msgid "The height of every image."
+msgstr ""
+
+#: purevision_options_page.php:2944
+msgid "Loader Color"
+msgstr ""
+
+#: purevision_options_page.php:2952
+msgid "Color of the cubes before the first image appears, also the color of the back sides of the cube, which become visible at some transition types."
+msgstr ""
+
+#: purevision_options_page.php:2956
+msgid "Inner Side Color"
+msgstr ""
+
+#: purevision_options_page.php:2964
+msgid "Color of the inner sides of the cube when sliced"
+msgstr ""
+
+#: purevision_options_page.php:2976
+msgid "Number of seconds from one transition to another, if not stopped. Set to 0 to disable autoplay."
+msgstr ""
+
+#: purevision_options_page.php:2980
+msgid "Field of View"
+msgstr ""
+
+#: purevision_options_page.php:2983
+#, php-format
+msgid "The display of the slide object moving down the z axis (1 to 179). It appears to change size quickly and moves a great distance. %1$sMore info%2$s"
+msgstr ""
+
+#: purevision_options_page.php:2991
+msgid "Shadows:"
+msgstr ""
+
+#: purevision_options_page.php:2995
+msgid "Side Shadow Alpha"
+msgstr ""
+
+#: purevision_options_page.php:2998
+#, php-format
+msgid "Sides get darker when moved away from the front. This is the degree of darkness 0 = no change, 1 = 100%s black."
+msgstr ""
+
+#: purevision_options_page.php:3002
+msgid "Drop Shadow Alpha"
+msgstr ""
+
+#: purevision_options_page.php:3005
+msgid "Alpha of the drop shadow 0 = no shadow, 1 = opaque."
+msgstr ""
+
+#: purevision_options_page.php:3009
+msgid "Drop Shadow Distance"
+msgstr ""
+
+#: purevision_options_page.php:3012
+msgid "Distance of the shadow from the bottom of the image."
+msgstr ""
+
+#: purevision_options_page.php:3016
+msgid "Drop Shadow Scale"
+msgstr ""
+
+#: purevision_options_page.php:3019
+msgid "As the shadow is blurred, it appears wider that the actual image, when not resized. Thus it's a good idea to make it slightly smaller. 1 would be no resizing at all."
+msgstr ""
+
+#: purevision_options_page.php:3023
+msgid "Drop Shadow Blur X"
+msgstr ""
+
+#: purevision_options_page.php:3026
+msgid "Blur of the drop shadow on the x-axis."
+msgstr ""
+
+#: purevision_options_page.php:3030
+msgid "Drop Shadow Blur Y"
+msgstr ""
+
+#: purevision_options_page.php:3033
+msgid "Blur of the drop shadow on the y-axis."
+msgstr ""
+
+#: purevision_options_page.php:3041
+msgid "Menu:"
+msgstr ""
+
+#: purevision_options_page.php:3045
+msgid "Menu Distance X"
+msgstr ""
+
+#: purevision_options_page.php:3048
+msgid "Distance between two menu items (from center to center)."
+msgstr ""
+
+#: purevision_options_page.php:3052
+msgid "Menu Distance Y"
+msgstr ""
+
+#: purevision_options_page.php:3055
+msgid "Distance of the menu from the bottom of the image."
+msgstr ""
+
+#: purevision_options_page.php:3064
+msgid "Menu Color 1"
+msgstr ""
+
+#: purevision_options_page.php:3072
+msgid "Color of an inactive menu item."
+msgstr ""
+
+#: purevision_options_page.php:3076
+msgid "Menu Color 2"
+msgstr ""
+
+#: purevision_options_page.php:3084
+msgid "Color of an active menu item."
+msgstr ""
+
+#: purevision_options_page.php:3088
+msgid "Menu Color 3"
+msgstr ""
+
+#: purevision_options_page.php:3096
+msgid "Color of the inner circle of an active menu item. Should equal the background color of the whole thing."
+msgstr ""
+
+#: purevision_options_page.php:3104
+msgid "Controls:"
+msgstr ""
+
+#: purevision_options_page.php:3108
+msgid "Controls' Size"
+msgstr ""
+
+#: purevision_options_page.php:3111
+msgid "Size of the controls, which appear on rollover (play, stop, info, link)."
+msgstr ""
+
+#: purevision_options_page.php:3115
+msgid "Controls' Distance"
+msgstr ""
+
+#: purevision_options_page.php:3118
+msgid "Distance between the controls (from the borders)."
+msgstr ""
+
+#: purevision_options_page.php:3127
+msgid "Control Color 1"
+msgstr ""
+
+#: purevision_options_page.php:3135
+msgid "Background color of the controls."
+msgstr ""
+
+#: purevision_options_page.php:3139
+msgid "Control Color 2"
+msgstr ""
+
+#: purevision_options_page.php:3147
+msgid "Font color of the controls."
+msgstr ""
+
+#: purevision_options_page.php:3156
+msgid "Control Alpha"
+msgstr ""
+
+#: purevision_options_page.php:3159
+msgid "Alpha of a control, when mouse is not over."
+msgstr ""
+
+#: purevision_options_page.php:3163
+msgid "Control Alpha Over"
+msgstr ""
+
+#: purevision_options_page.php:3166
+msgid "Alpha of a control, when mouse is over."
+msgstr ""
+
+#: purevision_options_page.php:3170
+msgid "Controls X"
+msgstr ""
+
+#: purevision_options_page.php:3173
+msgid "X-position of the point, which aligns the controls (measured from [0,0] of the image)."
+msgstr ""
+
+#: purevision_options_page.php:3177
+msgid "Controls Y"
+msgstr ""
+
+#: purevision_options_page.php:3180
+msgid "Y-position of the point, which aligns the controls (measured from [0,0] of the image)."
+msgstr ""
+
+#: purevision_options_page.php:3184
+msgid "Controls' Alignment"
+msgstr ""
+
+#: purevision_options_page.php:3187
+#: purevision_options_page.php:4608
+msgid "Choose Alignment: "
+msgstr ""
+
+#: purevision_options_page.php:3194
+msgid "Type of alignment from the point [controlsX, controlsY] - can be \"center\", \"left\" or \"right\"."
+msgstr ""
+
+#: purevision_options_page.php:3202
+msgid "Toolstips:"
+msgstr ""
+
+#: purevision_options_page.php:3206
+msgid "Tooltip Height"
+msgstr ""
+
+#: purevision_options_page.php:3209
+msgid "Height of the tooltip surface in the menu."
+msgstr ""
+
+#: purevision_options_page.php:3218
+msgid "Tooltip Color"
+msgstr ""
+
+#: purevision_options_page.php:3226
+msgid "Color of the tooltip surface in the menu."
+msgstr ""
+
+#: purevision_options_page.php:3235
+msgid "Tooltip Text Y"
+msgstr ""
+
+#: purevision_options_page.php:3238
+msgid "Y-distance of the tooltip text field from the top of the tooltip."
+msgstr ""
+
+#: purevision_options_page.php:3242
+msgid "Tooltip Text Style"
+msgstr ""
+
+#: purevision_options_page.php:3245
+msgid "The style of the tooltip text, specified in the CSS file. Default: \"P-Italic\""
+msgstr ""
+
+#: purevision_options_page.php:3254
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: purevision_options_page.php:3262
+msgid "Color of the tooltip text."
+msgstr ""
+
+#: purevision_options_page.php:3271
+msgid "Tooltip Margin Left"
+msgstr ""
+
+#: purevision_options_page.php:3274
+msgid "Margin of the text to the left end of the tooltip."
+msgstr ""
+
+#: purevision_options_page.php:3278
+msgid "Tooltip Margin Right"
+msgstr ""
+
+#: purevision_options_page.php:3281
+msgid "Margin of the text to the right end of the tooltip."
+msgstr ""
+
+#: purevision_options_page.php:3285
+msgid "Tooltip Text Sharpness"
+msgstr ""
+
+#: purevision_options_page.php:3288
+#, php-format
+msgid "Sharpness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr ""
+
+#: purevision_options_page.php:3292
+msgid "Tooltip Text Thickness"
+msgstr ""
+
+#: purevision_options_page.php:3295
+#, php-format
+msgid "Thickness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr ""
+
+#: purevision_options_page.php:3303
+msgid "Info Text:"
+msgstr ""
+
+#: purevision_options_page.php:3307
+msgid "Info Width"
+msgstr ""
+
+#: purevision_options_page.php:3310
+msgid "The width of the info text field."
+msgstr ""
+
+#: purevision_options_page.php:3319
+msgid "Info Background"
+msgstr ""
+
+#: purevision_options_page.php:3327
+msgid "The background color of the info text field."
+msgstr ""
+
+#: purevision_options_page.php:3336
+msgid "Info Background Alpha"
+msgstr ""
+
+#: purevision_options_page.php:3339
+msgid "The alpha of the background of the info text, the image shines through, when smaller than 1."
+msgstr ""
+
+#: purevision_options_page.php:3343
+msgid "Info Margin"
+msgstr ""
+
+#: purevision_options_page.php:3346
+msgid "The margin of the text field in the info section to all sides."
+msgstr ""
+
+#: purevision_options_page.php:3350
+msgid "Info Sharpness"
+msgstr ""
+
+#: purevision_options_page.php:3353
+msgid "Sharpness of the info text (-400 to 400)."
+msgstr ""
+
+#: purevision_options_page.php:3357
+msgid "Info Thickness"
+msgstr ""
+
+#: purevision_options_page.php:3360
+msgid "Thickness of the info text (-400 to 400)."
+msgstr ""
+
+#: purevision_options_page.php:3369
+msgid "Piecemaker 2 Slides:"
+msgstr ""
+
+#: purevision_options_page.php:3393
+#: purevision_options_page.php:3498
+msgid "Title:"
+msgstr ""
+
+#: purevision_options_page.php:3397
+#: purevision_options_page.php:3502
+#: purevision_options_page.php:3922
+#: purevision_options_page.php:3989
+#: purevision_options_page.php:4193
+#: purevision_options_page.php:4278
+msgid "Link:"
+msgstr ""
+
+#: purevision_options_page.php:3400
+#: purevision_options_page.php:3505
+#: purevision_options_page.php:3925
+#: purevision_options_page.php:3992
+#: purevision_options_page.php:4196
+#: purevision_options_page.php:4281
+msgid "Target: "
+msgstr ""
+
+#: purevision_options_page.php:3402
+#: purevision_options_page.php:3507
+#: purevision_options_page.php:3927
+#: purevision_options_page.php:3994
+#: purevision_options_page.php:4198
+#: purevision_options_page.php:4283
+msgid "self"
+msgstr ""
+
+#: purevision_options_page.php:3403
+#: purevision_options_page.php:3508
+#: purevision_options_page.php:3928
+#: purevision_options_page.php:3995
+#: purevision_options_page.php:4199
+#: purevision_options_page.php:4284
+msgid "blank"
+msgstr ""
+
+#: purevision_options_page.php:3413
+#: purevision_options_page.php:3518
+msgid "To remove the text just leave a single space."
+msgstr ""
+
+#: purevision_options_page.php:3424
+#: purevision_options_page.php:3541
+msgid "(Preview image to be loaded before the SWF file is shown)"
+msgstr ""
+
+#: purevision_options_page.php:3427
+#: purevision_options_page.php:3448
+#: purevision_options_page.php:3544
+#: purevision_options_page.php:3577
+msgid "Title Attribute:"
+msgstr ""
+
+#: purevision_options_page.php:3429
+#: purevision_options_page.php:3450
+#: purevision_options_page.php:3546
+#: purevision_options_page.php:3579
+msgid "(The title attribute will be shown in the tooltip on the menu)"
+msgstr ""
+
+#: purevision_options_page.php:3432
+#: purevision_options_page.php:3549
+msgid "SWF Link:"
+msgstr ""
+
+#: purevision_options_page.php:3434
+#: purevision_options_page.php:3551
+msgid "(Paste the URL to the SWF file here. Should be on same Server)"
+msgstr ""
+
+#: purevision_options_page.php:3445
+#: purevision_options_page.php:3574
+msgid "(Preview image to be loaded before the Video file is shown)"
+msgstr ""
+
+#: purevision_options_page.php:3453
+#: purevision_options_page.php:3582
+msgid "Video Link:"
+msgstr ""
+
+#: purevision_options_page.php:3455
+msgid "(Paste the URL to the video file here. Should be on same Server. Accepted file formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr ""
+
+#: purevision_options_page.php:3458
+#: purevision_options_page.php:3587
+msgid "Width:"
+msgstr ""
+
+#: purevision_options_page.php:3462
+#: purevision_options_page.php:3591
+msgid "Height:"
+msgstr ""
+
+#: purevision_options_page.php:3467
+#: purevision_options_page.php:3596
+msgid "Autoplay: "
+msgstr ""
+
+#: purevision_options_page.php:3469
+#: purevision_options_page.php:3598
+msgid "Yes"
+msgstr ""
+
+#: purevision_options_page.php:3470
+#: purevision_options_page.php:3599
+msgid "No"
+msgstr ""
+
+#: purevision_options_page.php:3584
+msgid "(Paste the URL to the FLV file here. Should be on same Server. Accepted file formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr ""
+
+#: purevision_options_page.php:3610
+msgid "Piecemaker 2 Transitions:"
+msgstr ""
+
+#: purevision_options_page.php:3634
+#: purevision_options_page.php:3714
+msgid "Pieces:"
+msgstr ""
+
+#: purevision_options_page.php:3638
+#: purevision_options_page.php:3718
+msgid "Time:"
+msgstr ""
+
+#: purevision_options_page.php:3643
+#: purevision_options_page.php:3723
+msgid "Transition: "
+msgstr ""
+
+#: purevision_options_page.php:3690
+#: purevision_options_page.php:3770
+msgid "Delay:"
+msgstr ""
+
+#: purevision_options_page.php:3694
+#: purevision_options_page.php:3774
+msgid "Depth Offset:"
+msgstr ""
+
+#: purevision_options_page.php:3698
+#: purevision_options_page.php:3778
+msgid "Cube Distance:"
+msgstr ""
+
+#: purevision_options_page.php:3796
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Piecemaker 2 slider, you may change that in here"
+msgstr ""
+
+#: purevision_options_page.php:3817
+msgid "Cycle 1 Slider Settings:"
+msgstr ""
+
+#: purevision_options_page.php:3821
+#: purevision_options_page.php:4029
+msgid "Transition Speed"
+msgstr ""
+
+#: purevision_options_page.php:3824
+#: purevision_options_page.php:4032
+msgid "Speed of the transition."
+msgstr ""
+
+#: purevision_options_page.php:3828
+#: purevision_options_page.php:4036
+msgid "Timeout"
+msgstr ""
+
+#: purevision_options_page.php:3831
+#: purevision_options_page.php:4039
+msgid "Milliseconds between slide transitions (0 to disable auto advance)."
+msgstr ""
+
+#: purevision_options_page.php:3835
+#: purevision_options_page.php:3837
+#: purevision_options_page.php:4043
+#: purevision_options_page.php:4045
+msgid "Sync"
+msgstr ""
+
+#: purevision_options_page.php:3840
+#: purevision_options_page.php:4048
+msgid "Toggle this option to see how some effects behave differently (such as blind, curtain, and zoom)."
+msgstr ""
+
+#: purevision_options_page.php:3846
+#: purevision_options_page.php:3848
+msgid "Image Frame"
+msgstr ""
+
+#: purevision_options_page.php:3851
+msgid "Remove the image frame with the border around the image?"
+msgstr ""
+
+#: purevision_options_page.php:3852
+msgid "With the frame enabled (default state) image dimension is 914px by 374px (width by height). Without the frame image dimension is 940px by 400px. Depending on which option is selected, create and upload images with the corresponding dimensions for optimal quality."
+msgstr ""
+
+#: purevision_options_page.php:3882
+#: purevision_options_page.php:3949
+msgid "Slide Image:"
+msgstr ""
+
+#: purevision_options_page.php:3918
+#: purevision_options_page.php:3985
+msgid "Transition effect."
+msgstr ""
+
+#: purevision_options_page.php:3932
+#: purevision_options_page.php:3999
+#: purevision_options_page.php:4203
+#: purevision_options_page.php:4288
+msgid "Alt Tag:"
+msgstr ""
+
+#: purevision_options_page.php:3935
+#: purevision_options_page.php:4002
+msgid "(To clear a text field above, replace it with a single space)"
+msgstr ""
+
+#: purevision_options_page.php:4025
+msgid "Cycle 2 Slider Settings:"
+msgstr ""
+
+#: purevision_options_page.php:4054
+#: purevision_options_page.php:4056
+msgid "Enable Transition on Text"
+msgstr ""
+
+#: purevision_options_page.php:4059
+msgid "Toggle this option to enable/disable the transition effect on the info text. If disabled (unchecked) then the text will disapear for the duration of the transition."
+msgstr ""
+
+#: purevision_options_page.php:4065
+msgid "Text Size"
+msgstr ""
+
+#: purevision_options_page.php:4084
+msgid "When using \"em\" you are specifying size relative to the general font size."
+msgstr ""
+
+#: purevision_options_page.php:4088
+msgid "Text Line Height"
+msgstr ""
+
+#: purevision_options_page.php:4091
+msgid "Line Height: "
+msgstr ""
+
+#: purevision_options_page.php:4133
+msgid "Slider text color including the Title."
+msgstr ""
+
+#: purevision_options_page.php:4160
+#: purevision_options_page.php:4245
+msgid "Transition:"
+msgstr ""
+
+#: purevision_options_page.php:4208
+#: purevision_options_page.php:4293
+msgid "(You could use text and/or html)"
+msgstr ""
+
+#: purevision_options_page.php:4214
+#: purevision_options_page.php:4299
+msgid "Button Text:"
+msgstr ""
+
+#: purevision_options_page.php:4216
+#: purevision_options_page.php:4301
+msgid "Button Style: "
+msgstr ""
+
+#: purevision_options_page.php:4218
+#: purevision_options_page.php:4303
+msgid "Dark"
+msgstr ""
+
+#: purevision_options_page.php:4219
+#: purevision_options_page.php:4304
+msgid "Light"
+msgstr ""
+
+#: purevision_options_page.php:4222
+#: purevision_options_page.php:4307
+msgid "The button is activated only if a <strong>Link</strong> is provided. To remove the button just replace the link with a single space."
+msgstr ""
+
+#: purevision_options_page.php:4327
+msgid "\"No Slider\" Text"
+msgstr ""
+
+#: purevision_options_page.php:4329
+msgid "Change the phrase:"
+msgstr ""
+
+#: purevision_options_page.php:4331
+msgid "This is the title text displayed in the place of the slider on the home page"
+msgstr ""
+
+#: purevision_options_page.php:4347
+msgid "Portfolio Pages"
+msgstr ""
+
+#: purevision_options_page.php:4349
+msgid "Use this area to assign Portfolio Categories to their respective Portfolio pages."
+msgstr ""
+
+#: purevision_options_page.php:4350
+msgid "Firstly though, you have to create the Portfolio page(s) and assign the \"Portfolio page\" template to it."
+msgstr ""
+
+#: purevision_options_page.php:4351
+msgid "If you don't see any categories in the dropdown(s) below it's because you haven't created any yet, in that case go to 'Posts -> Categories' and create a 'Portfolio' category there. Also don't forget to save all your Portfolio related Posts and sub categories under that category."
+msgstr ""
+
+#: purevision_options_page.php:4356
+msgid "To Portfolio page"
+msgstr ""
+
+#: purevision_options_page.php:4357
+msgid "assign the Category:"
+msgstr ""
+
+#: purevision_options_page.php:4357
+msgid "Select Category"
+msgstr ""
+
+#: purevision_options_page.php:4358
+msgid "with"
+msgstr ""
+
+#: purevision_options_page.php:4358
+msgid "items per page."
+msgstr ""
+
+#: purevision_options_page.php:4363
+msgid "Do not link adjacent items in this category as gallery."
+msgstr ""
+
+#: purevision_options_page.php:4365
+msgid "(Remove the ability to go to the next or previous item when previewing with prettyPhoto lightbox)"
+msgstr ""
+
+#: purevision_options_page.php:4372
+msgid "Portfolio Title Position"
+msgstr ""
+
+#: purevision_options_page.php:4375
+msgid "Below"
+msgstr ""
+
+#: purevision_options_page.php:4376
+msgid "Above"
+msgstr ""
+
+#: purevision_options_page.php:4377
+msgid "This is the post title shown with every thumbnail. Choose whether you would like to have it displayed above the Thumbnail or just below it."
+msgstr ""
+
+#: purevision_options_page.php:4384
+msgid "The following settings refer to the individual portfolio item post (single post view)"
+msgstr ""
+
+#: purevision_options_page.php:4388
+#: purevision_options_page.php:4453
+#: purevision_options_page.php:4675
+msgid "Sidebar Position"
+msgstr ""
+
+#: purevision_options_page.php:4393
+msgid "This is the sidebar shown on individual portflio items' posts"
+msgstr ""
+
+#: purevision_options_page.php:4397
+#: purevision_options_page.php:4399
+msgid "Portfolio Post Date"
+msgstr ""
+
+#: purevision_options_page.php:4402
+msgid "Show the date located at the top right corner next to the Post title (Single View)."
+msgstr ""
+
+#: purevision_options_page.php:4408
+#: purevision_options_page.php:4410
+msgid "Portfolio Post Metadata"
+msgstr ""
+
+#: purevision_options_page.php:4413
+msgid "Show Portfolio Post Metadata box (Single View)."
+msgstr ""
+
+#: purevision_options_page.php:4414
+msgid "This is the info box situated right under the post and just above the comments area."
+msgstr ""
+
+#: purevision_options_page.php:4420
+#: purevision_options_page.php:4422
+msgid "Portfolio Post Author"
+msgstr ""
+
+#: purevision_options_page.php:4425
+msgid "Show Author Name (\"Portfolio Post Metadata\" needs to be enabled for this option)"
+msgstr ""
+
+#: purevision_options_page.php:4426
+#: purevision_options_page.php:4498
+#, php-format
+msgid "The following text: \"Written by: Author Name\" will be added to the postmetadata box. The author's name will be displayed as specified under %1$sUsers -> Your Profile%2$s <strong>Display name publicly as</strong> field and linking it to the author's page."
+msgstr ""
+
+#: purevision_options_page.php:4432
+#: purevision_options_page.php:4434
+msgid "Show Comment Area"
+msgstr ""
+
+#: purevision_options_page.php:4437
+msgid "Show comment area in Portfolio posts (Single View)"
+msgstr ""
+
+#: purevision_options_page.php:4458
+msgid "This is the sidebar shown on blog pages"
+msgstr ""
+
+#: purevision_options_page.php:4462
+msgid "\"Read more\" Button"
+msgstr ""
+
+#: purevision_options_page.php:4465
+msgid "Enter the text for the post's 'Read more' button.  Leave blank to hide the button."
+msgstr ""
+
+#: purevision_options_page.php:4469
+msgid "Show Excerpt"
+msgstr ""
+
+#: purevision_options_page.php:4471
+#: purevision_options_page.php:4480
+#: purevision_options_page.php:4482
+msgid "Exclude Portfolio(s) from Blog"
+msgstr ""
+
+#: purevision_options_page.php:4474
+msgid "Show the excerpt only instead of the default post content on the Blog page."
+msgstr ""
+
+#: purevision_options_page.php:4485
+msgid "Exclude Portfolio section(s) related posts from showing in the the general Blog section (\"Blog page\" template loop)."
+msgstr ""
+
+#: purevision_options_page.php:4486
+msgid "Note: Portfolio posts are those that have been assigned to a portfolio related category. A portfolio related category is one which either directly or indireclty (parent or descendant) has been assigned to a \"Portfolio page\" template (see the \"Portfolio section above for these assignments)"
+msgstr ""
+
+#: purevision_options_page.php:4492
+#: purevision_options_page.php:4494
+msgid "Show Post Author"
+msgstr ""
+
+#: purevision_options_page.php:4497
+msgid "Show Author Name"
+msgstr ""
+
+#: purevision_options_page.php:4504
+#: purevision_options_page.php:4506
+msgid "Category Archive Title"
+msgstr ""
+
+#: purevision_options_page.php:4509
+msgid "Remove the \"Archive for the '...' Category\" string from the category archive title."
+msgstr ""
+
+#: purevision_options_page.php:4515
+#: purevision_options_page.php:4517
+msgid "Full-width Blog Page"
+msgstr ""
+
+#: purevision_options_page.php:4520
+msgid "Remove the sidebar from Blog pages."
+msgstr ""
+
+#: purevision_options_page.php:4526
+#: purevision_options_page.php:4528
+msgid "Full-width Archive Page"
+msgstr ""
+
+#: purevision_options_page.php:4531
+msgid "Remove the sidebar from Archive pages (e.g. Category archives, Date archives, Tag archives, etc.)."
+msgstr ""
+
+#: purevision_options_page.php:4537
+#: purevision_options_page.php:4539
+msgid "Full-width Single Post View Page"
+msgstr ""
+
+#: purevision_options_page.php:4542
+msgid "Remove the sidebar from Single Post View pages."
+msgstr ""
+
+#: purevision_options_page.php:4548
+#: purevision_options_page.php:4550
+msgid "Post Image in Single Post View"
+msgstr ""
+
+#: purevision_options_page.php:4553
+msgid "Display the post image in single post view."
+msgstr ""
+
+#: purevision_options_page.php:4563
+msgid "Blog and Archive Section \"Featured Image\":"
+msgstr ""
+
+#: purevision_options_page.php:4564
+msgid "Use this section to set the Post \"Featured Image\" the way it will be shown on the Blog and Archive Pages for each post. Please note, that if you have \"post_image\" custom field specified in a post, it will be given priority over the post \"Featured Image\", so if you would like to use the \"Featured Image\" do not use the custom field \"post_image\"."
+msgstr ""
+
+#: purevision_options_page.php:4570
+#: purevision_options_page.php:4595
+msgid "Enable Custom \"Featured Image\""
+msgstr ""
+
+#: purevision_options_page.php:4573
+msgid "Select this option to apply the settings below to the \"Featured Image\"."
+msgstr ""
+
+#: purevision_options_page.php:4582
+msgid "Apply this image width in pixels."
+msgstr ""
+
+#: purevision_options_page.php:4589
+msgid "Apply this image height in pixels."
+msgstr ""
+
+#: purevision_options_page.php:4593
+msgid "Force Image Dimensions"
+msgstr ""
+
+#: purevision_options_page.php:4598
+msgid "Select this option to crop and resize the image with TimThumb script which is recommended if you would like all images to be of the same dimensions, otherwise the built-in WordPress resizing will be applied to the \"Featured Image\"."
+msgstr ""
+
+#: purevision_options_page.php:4601
+msgid "(This option would only be considered if TimThumb is enabled from the \"General Options\")"
+msgstr ""
+
+#: purevision_options_page.php:4605
+msgid "Image Alignment"
+msgstr ""
+
+#: purevision_options_page.php:4611
+msgid "Center"
+msgstr ""
+
+#: purevision_options_page.php:4642
+msgid "Enable Business Contact"
+msgstr ""
+
+#: purevision_options_page.php:4643
+msgid "Enable Contact Info Fields"
+msgstr ""
+
+#: purevision_options_page.php:4646
+msgid "Enable the Business Contact fields (see below for description)"
+msgstr ""
+
+#: purevision_options_page.php:4649
+msgid "Business Contact Fields"
+msgstr ""
+
+#: purevision_options_page.php:4651
+msgid "The Business Contact Fields provide a way to better display additional contact information such as Company Name, Address, Phone, etc. An example of a Field pair could be <strong>Telephone: (123) 123-4567</strong>, where you would enter the \"<strong>Telephone:</strong>\" part in the first field and \"<strong>(123) 123-4567</strong>\" in the second (under the same \"Line #\") respectively."
+msgstr ""
+
+#: purevision_options_page.php:4652
+msgid "Line 1:"
+msgstr ""
+
+#: purevision_options_page.php:4655
+msgid "Line 2:"
+msgstr ""
+
+#: purevision_options_page.php:4658
+msgid "Line 3:"
+msgstr ""
+
+#: purevision_options_page.php:4661
+msgid "Line 4:"
+msgstr ""
+
+#: purevision_options_page.php:4664
+msgid "Line 5:"
+msgstr ""
+
+#: purevision_options_page.php:4667
+msgid "Line 6:"
+msgstr ""
+
+#: purevision_options_page.php:4670
+msgid "Line 7:"
+msgstr ""
+
+#: purevision_options_page.php:4673
+msgid "Some html tags and inline styling could be used for formatting here, e.g."
+msgstr ""
+
+#: purevision_options_page.php:4673
+msgid "Address"
+msgstr "Adreça"
+
+#: purevision_options_page.php:4673
+msgid "or"
+msgstr ""
+
+#: purevision_options_page.php:4679
+msgid "This is the sidebar shown on the Contact page"
+msgstr ""
+
+#: purevision_options_page.php:4681
+msgid "Phone Number validation"
+msgstr ""
+
+#: purevision_options_page.php:4682
+msgid "This is the field displayed in the E-mail form on the Contact page template. If checked, the validation for North American phone numbers will be enabled."
+msgstr ""
+
+#: purevision_options_page.php:4683
+msgid "Enable North American phone number validation"
+msgstr ""
+
+#: purevision_options_page.php:4686
+msgid "Enable North American phone number validation in the contact email form"
+msgstr ""
+
+#: purevision_options_page.php:4692
+msgid "E-mail Recipient(s)"
+msgstr ""
+
+#: purevision_options_page.php:4694
+msgid "Please enter recipient's email address, comma-separate multiple recipients:"
+msgstr ""
+
+#: purevision_options_page.php:4699
+#: purevision_options_page.php:4701
+msgid "Enable ReCAPTCHA"
+msgstr ""
+
+#: purevision_options_page.php:4704
+#, php-format
+msgid "Add ReCAPTCHA to the email form for extra security (for more information visit %s)"
+msgstr ""
+
+#: purevision_options_page.php:4706
+msgid "Please note: ReCAPTCHA will be automatically disabled if the two fields below are empty!"
+msgstr ""
+
+#: purevision_options_page.php:4711
+msgid "ReCAPTCHA Public Key"
+msgstr ""
+
+#: purevision_options_page.php:4714
+msgid "To use reCAPTCHA you must get an API public key from"
+msgstr ""
+
+#: purevision_options_page.php:4718
+msgid "ReCAPTCHA Private Key"
+msgstr ""
+
+#: purevision_options_page.php:4721
+msgid "To use ReCAPTCHA you must get an API private key from"
+msgstr ""
+
+#: purevision_options_page.php:4722
+msgid "This key is used when communicating between your server and the ReCAPTCHA server. Be sure to keep it a secret."
+msgstr ""
+
+#: purevision_options_page.php:4726
+msgid "ReCAPTCHA Theme"
+msgstr ""
+
+#: purevision_options_page.php:4729
+msgid "Choose Theme: "
+msgstr ""
+
+#: purevision_options_page.php:4731
+msgid "white"
+msgstr ""
+
+#: purevision_options_page.php:4732
+msgid "red"
+msgstr ""
+
+#: purevision_options_page.php:4733
+msgid "blackglass"
+msgstr ""
+
+#: purevision_options_page.php:4734
+msgid "clean"
+msgstr ""
+
+#: purevision_options_page.php:4740
+msgid "ReCAPTCHA Language"
+msgstr ""
+
+#: purevision_options_page.php:4743
+msgid "Language: "
+msgstr ""
+
+#: purevision_options_page.php:4770
+msgid "Copyright Message"
+msgstr ""
+
+#: purevision_options_page.php:4774
+msgid "Copyright message displayed in the footer."
+msgstr ""
+
+#: purevision_options_page.php:4778
+#: purevision_options_page.php:4780
+msgid "WordPress credits link"
+msgstr ""
+
+#: purevision_options_page.php:4783
+#, php-format
+msgid "Show \"is proudly powered by %s\" in footer?"
+msgstr ""
+
+#: purevision_options_page.php:4789
+#: purevision_options_page.php:4791
+msgid "Entries (RSS) link"
+msgstr ""
+
+#: purevision_options_page.php:4794
+msgid "Show \"Entries (RSS)\" link in footer?"
+msgstr ""
+
+#: purevision_options_page.php:4800
+#: purevision_options_page.php:4802
+msgid "Comments (RSS) link"
+msgstr ""
+
+#: purevision_options_page.php:4805
+msgid "Show \"Comments (RSS)\" link in footer?"
+msgstr ""
+
+#: purevision_options_page.php:4820
+msgid "Google Analytics"
+msgstr ""
+
+#: purevision_options_page.php:4824
+msgid "Paste your Google Analytics or other tracking code here. It will be inserted just before the closing &lt;/head&gt; tag."
+msgstr ""
+
+#: search.php:51
+msgid "Didn't find what you were looking for? Refine your search!"
+msgstr "No has trobat allò que buscaves? Redefineix la teva cerca!"
+
+#: sidebar-BlogSidebar.php:20
+#: sidebar-ContactSidebar.php:20
+#: sidebar-PagesSidebar2.php:19
+#: sidebar-PagesSidebar3.php:19
+#: sidebar-PagesSidebar4.php:19
+msgid "About This Sidebar"
+msgstr ""
+
+#: sidebar-BlogSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>BlogSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-ContactSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>ContactSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar2.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 2</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar3.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 3</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar4.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 4</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar5.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 5</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar6.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 6</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar7.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 7</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PagesSidebar8.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 8</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-PortfolioSidebar.php:24
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>PortfolioSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar-SitemapSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>SitemapSidebar</em></strong> Widget Area"
+msgstr ""
+
+#: sidebar.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</em></strong> Widget Area"
+msgstr ""
+
+#: single-Portfolio.php:47
+#: single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: sitemap.php:23
+msgid "Site Feeds"
+msgstr ""
+
+#: sitemap.php:25
+msgid "Main RSS Feed"
+msgstr ""
+
+#: sitemap.php:26
+#, fuzzy
+msgid "Comments RSS Feed"
+msgstr "Comentaris (RSS)"
+
+#: sitemap.php:29
+msgid "Pages"
+msgstr "Pàgines"
+
+#: sitemap.php:40
+msgid "Monthly Archives"
+msgstr ""
+
+#: sitemap.php:45
+#, fuzzy
+msgid "Tags"
+msgstr "Etiquetes:"
+
+#: sitemap.php:51
+msgid "All Articles"
+msgstr ""
+
+#: sitemap.php:55
+#, fuzzy
+msgid "0 Comment"
+msgstr "1 Comentari"
+
+#: scripts/breadcrumbs.php:40
+msgid "You are here:"
+msgstr "Vosté està aquí:"
+
+#: scripts/breadcrumbs.php:113
+msgid "Author: "
+msgstr ""
+
+#: scripts/breadcrumbs.php:115
+msgid "Tag: "
+msgstr ""
+
+#: scripts/breadcrumbs.php:117
+msgid "404 - Page not Found"
+msgstr ""
+
+#: scripts/portfolio-item-thumbnail.php:54
+msgid "Preview item is not available!."
+msgstr ""
+
+#: scripts/portfolio-item-thumbnail.php:72
+msgid "Preview image not available!."
+msgstr ""
+
+#: scripts/portfolio-item-thumbnail.php:79
+msgid "Default Image"
+msgstr ""
+
+#: sliders/cycle/cycle1/cycle1_display.php:34
+#: sliders/cycle/cycle2/cycle2_display.php:39
+msgid "Play"
+msgstr ""
+
+#: sliders/cycle/cycle1/cycle1_display.php:35
+#: sliders/cycle/cycle2/cycle2_display.php:38
+msgid "Pause"
+msgstr "Pausa"
+
+#: sliders/flashmo/grid_slider/grid_slider_display.php:26
+#: sliders/piecemaker/piecemaker_display.php:11
+#: sliders/piecemaker_2/piecemaker_display.php:11
+msgid "Slider Image"
+msgstr ""
+
+#: widgets/customCategory-widget.php:39
+msgid "A list or dropdown of a single category's descendants."
+msgstr ""
+
+#: widgets/customCategory-widget.php:45
+msgid "pureVISION: Custom Category"
+msgstr ""
+
+#: widgets/customCategory-widget.php:122
+msgid "Category to be displayed:"
+msgstr ""
+
+#: widgets/customCategory-widget.php:132
+msgid "Show as dropdown"
+msgstr ""
+
+#: widgets/customCategory-widget.php:138
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/customCategory-widget.php:144
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/googleMap-widget.php:39
+msgid "A Google Map widget."
+msgstr ""
+
+#: widgets/googleMap-widget.php:45
+msgid "pureVISION: Google Map"
+msgstr ""
+
+#: widgets/googleMap-widget.php:95
+msgid "Google Map"
+msgstr ""
+
+#: widgets/googleMap-widget.php:105
+msgid "Google Map Code:"
+msgstr ""
+
+#: widgets/latestPost-widget.php:39
+msgid "The most recent posts with teaser text"
+msgstr ""
+
+#: widgets/latestPost-widget.php:45
+msgid "pureVISION: Recent Posts"
+msgstr ""
+
+#: widgets/latestPost-widget.php:141
+msgid "Pick a specific category:"
+msgstr ""
+
+#: widgets/latestPost-widget.php:147
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/latestPost-widget.php:150
+msgid "(at most 15)"
+msgstr ""
+
+#: widgets/latestPost-widget.php:155
+msgid "Number of posts to skip:"
+msgstr ""
+
+#: widgets/latestPost-widget.php:158
+msgid "(offset from latest)"
+msgstr ""
+
+#: widgets/latestPost-widget.php:163
+msgid "Limit the number of words to show from each post:"
+msgstr ""
+
+#: widgets/latestPost-widget.php:166
+msgid "(Could also be limited by \"Excerpt Length\" defined in the theme's options page)"
+msgstr ""
+
+#: widgets/latestPost-widget.php:173
+msgid "Show date & author info"
+msgstr ""
+
+#: widgets/latestPost-widget.php:182
+msgid "Show thumbnails"
+msgstr ""
+
+#: widgets/latestPost-widget.php:193
+msgid "Show thumbnail frame shadow"
+msgstr ""
+
+#: widgets/latestPost-widget.php:199
+msgid "Thumbnail Dimensions:"
+msgstr ""
+
+#: widgets/latestPost-widget.php:204
+msgid "(Width X Height) in pixels"
+msgstr ""
+
+#: widgets/loginForm-widget.php:39
+msgid "A user login form."
+msgstr ""
+
+#: widgets/loginForm-widget.php:45
+msgid "pureVISION: Login Form"
+msgstr ""
+
+#: widgets/loginForm-widget.php:69
+msgid "You are logged in as"
+msgstr "Has iniciat sessió com"
+
+#: widgets/loginForm-widget.php:72
+msgid "Logout"
+msgstr "Sortir"
+
+#: widgets/loginForm-widget.php:79
+msgid "User"
+msgstr "Usuari"
+
+#: widgets/loginForm-widget.php:82
+msgid "Password"
+msgstr "Contrassenya"
+
+#: widgets/loginForm-widget.php:86
+msgid "Login"
+msgstr "Iniciar sessió"
+
+#: widgets/loginForm-widget.php:87
+msgid "Remember me"
+msgstr "Recorda-m'ho"
+
+#: widgets/loginForm-widget.php:94
+msgid "Register"
+msgstr "Registre"
+
+#: widgets/loginForm-widget.php:96
+msgid "Recover password"
+msgstr "Recupera la contrassenya"
+
+#: widgets/loginForm-widget.php:128
+msgid "Login Form"
+msgstr ""
+
+#: widgets/subpages-widget.php:39
+msgid "Display subpages if present page only."
+msgstr ""
+
+#: widgets/subpages-widget.php:45
+msgid "pureVISION: Subpages"
+msgstr ""
+
+#: widgets/subpages-widget.php:121
+msgid "Leave the Title field blank if you would like to display the parent page Title instead."
+msgstr ""
+

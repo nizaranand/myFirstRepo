@@ -1,0 +1,1 @@
+<blockquote <?php echo $align?>><div><?php echo do_shortcode($content).$cite ?></div></blockquote>

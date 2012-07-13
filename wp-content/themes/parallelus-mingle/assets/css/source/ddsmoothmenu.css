@@ -1,0 +1,301 @@
+.slideMenu{
+	/*font: bold 12px Verdana;
+	background: #414141; background of menu bar (default state)
+	width: 100%;*/
+	font-size: 13px;
+	line-height: 1;
+}
+
+.slideMenu ul.menu {
+	/* position: absolute; prevents overflow from influencing other page content - for example, changing font size for top level pushing into slide show below. */
+}
+
+.slideMenu ul{
+z-index:100;
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.slideMenu ul li{
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.slideMenu ul li a {
+	display: block;
+	padding: 6px 13px 9px;
+	margin: 2px 0 2px;
+	color: #B9BBBE;
+	line-height: 1;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.75);
+	/* border radius */
+	-webkit-border-radius: 4px; 
+	-moz-border-radius: 4px; 
+	border-radius: 4px; 
+}
+
+.csstransitions .slideMenu ul li a {
+	/* animate style changes (hover, active, etc.) */
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+}
+
+.slideMenu ul li a.hasSubMenu {
+	padding-right: 19px;
+	/* border radius */
+	-webkit-border-radius: 4px 4px 0 0; 
+	-moz-border-radius: 4px 4px 0 0; 
+	border-radius: 4px 4px 0 0; 
+}
+
+* html .slideMenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.slideMenu ul li a:link, .slideMenu ul li a:visited{
+	color: #B9BBBE;
+}
+
+.slideMenu ul li a:hover, .slideMenu ul li a.hover {
+	background: #24272A;
+	background: rgba(0,0,0,.3);  /*background of menu items during onmouseover (hover state)*/
+	color: #fff;
+}
+.slideMenu ul li a.hover.hasSubMenu, .slideMenu ul li a.hasSubMenu:hover {
+	border-bottom: none;
+	padding-bottom: 12px;
+	margin-bottom: 0;
+}
+.csstransitions .slideMenu ul li a.hover.hasSubMenu, .csstransitions .slideMenu ul li a.hasSubMenu:hover {
+	/* for browsers that recognize transitions... (so it's not jumpy looking on other browsers) */
+	padding-top: 7px;
+	padding-bottom: 10px;
+	margin-bottom: 0;
+}
+
+/* current menu item (top level) */
+.slideMenu ul li.current-menu-item,
+.slideMenu ul li.current-menu-item.li_hover, .noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-item.li_hover, 
+.slideMenu ul li.current-menu-ancestor,
+.slideMenu ul li.current-menu-ancestor.li_hover, .noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor.li_hover { 
+	background: transparent url(../images/mm-active-subHead.png) repeat-x 0 0;
+	margin-top: -4px;
+	border: 1px solid #3E454B;
+	border-bottom: 0;
+	/* border radius */
+	-webkit-border-radius: 4px 4px 0 0; 
+	-moz-border-radius: 4px 4px 0 0; ; 
+	border-radius: 4px 4px 0 0;  
+	/* box shadow */
+    -webkit-box-shadow: 0 -2px 3px rgba(0, 0, 0, .05); 
+    -moz-box-shadow: 0 -2px 3px rgba(0, 0, 0, .05); 
+	box-shadow: 0 -2px 3px rgba(0, 0, 0, .05);
+}
+.slideMenu ul li.current-menu-item > a,
+.slideMenu ul li.current-menu-ancestor > a { /* (.slideMenu ul li a.hover) CSS class that's dynamically added to the currently active menu items' LI A element*/
+	border-width: 1px 1px 0;
+	border-color: #6A747C #525C65 #6A747C;
+	border-style: solid;
+	margin: 0;
+	padding: 9px 11px 13px;
+	color: #BADCED;
+	/* border radius */
+	-webkit-border-radius: 4px 4px 0 0; 
+	-moz-border-radius: 4px 4px 0 0; ; 
+	border-radius: 4px 4px 0 0;  
+}
+	/* current menu item - pages with no header content */
+	.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-item,
+	.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor { /* (.slideMenu ul li a.hover) CSS class that's dynamically added to the currently active menu items' LI A element*/
+		background-image: url(../images/mm-active-page.png);
+		border-color: #CFD1D3;
+	}
+	.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-item > a,
+	.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor > a { /* (.slideMenu ul li a.hover) CSS class that's dynamically added to the currently active menu items' LI A element*/
+		border-color: #fff;
+		color: #1F7099;
+		text-shadow: 0 1px #D8D8D8;
+	}
+	.slideMenu ul li.current-menu-item > a:hover, .slideMenu ul li.current-menu-item > a.hover,
+	.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-item > a:hover, .noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-item > a.hover,
+	.slideMenu ul li.current-menu-ancestor > a:hover, .slideMenu ul li.current-menu-ancestor > a.hover,
+	.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor > a:hover, .noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor > a.hover {
+		background: #1E2225;
+		border-color: #1E2225;
+		text-shadow: 0 -1px 0 rgba(0,0,0,0.75);
+		color: #fff;
+	}
+	/* current menu item - with sub-menu (down arrow) */
+	.slideMenu ul li.current-menu-item > a.hasSubMenu, .slideMenu ul li.current-menu-item > a.hasSubMenu,
+	.slideMenu ul li.current-menu-ancestor > a.hasSubMenu, .slideMenu ul li.current-menu-ancestor > a.hasSubMenu {
+		padding-right: 17px;
+	}
+	.csstransitions .slideMenu ul li.current-menu-item > a.hover.hasSubMenu, .csstransitions .slideMenu ul li.current-menu-item > a.hasSubMenu:hover,
+	.csstransitions .slideMenu ul li.current-menu-ancestor > a.hover.hasSubMenu, .csstransitions .slideMenu ul li.current-menu-ancestor > a.hasSubMenu:hover {
+		/* for browsers that recognize transitions... (so it's not jumpy looking on other browsers) */
+		padding: 9px 17px 13px 11px; /* should match "li.current-menu-item > a", except for padding right (+6) */
+	}
+
+
+
+	
+/*1st sub level menu*/
+.slideMenu ul li ul{
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+	padding: 6px 7px;
+	border-width: 0 1px 1px 0;
+	border-style: solid;
+	border-color: #363D43 #15171A #2A2D30 #2C3136;
+	/* border radius */
+	-webkit-border-radius: 0 0 4px 4px;
+	-moz-border-radius: 0 0 4px 4px;
+	border-radius: 0 0 4px 4px;
+	/* drop shadow */
+    -webkit-box-shadow: 1px 3px 6px rgba(0, 0, 0, .5); 
+    -moz-box-shadow: 0 4px 5px rgba(0, 0, 0, .6);
+	box-shadow: 0 4px 5px rgba(0, 0, 0, .6);
+	/* gradient background */
+	background: #1E2225;
+	background: -webkit-gradient(linear, left top, left bottom, from(#1E2225), to(rgba(18,20,22,.78)));
+	background: -moz-linear-gradient(top, #1E2225, rgba(18,20,22,.78));
+	background: linear-gradient(#1E2225, rgba(18,20,22,.78));
+	-pie-background: linear-gradient(#1E2225, rgba(18,20,22,.78));
+}
+/*1st sub level menu - current menu item */
+.slideMenu ul li.current-menu-item ul,
+.slideMenu ul li.current-menu-ancestor ul { margin-top: -2px; }
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.slideMenu ul li ul li,
+.slideMenu ul li ul li.current-menu-item,
+.slideMenu ul li ul li.current-menu-ancestor,
+.slideMenu ul li.current-menu-ancestor ul li,
+.slideMenu ul li.current-menu-ancestor ul li.li_hover, 
+.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li,
+.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li.li_hover {
+	display: list-item;
+	float: none;
+	margin: 0;
+	padding: 0;
+	background: none;
+	border: none;
+	/* drop shadow */
+    -webkit-box-shadow: none;
+    -moz-box-shadow:none;
+	box-shadow: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.slideMenu ul li ul li ul{
+	top: 0;
+	border-width: 1px;
+	/* border radius */
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+/* Sub level menu links style, extra line to make sure the "current" parent style is not inherited */
+.slideMenu ul li ul li a, 
+.slideMenu ul li.current-menu-item ul li a,
+.slideMenu ul li.current-menu-ancestor ul li a,
+.slideMenu ul li ul li.current-menu-item a,
+.slideMenu ul li ul li.current-menu-item ul li a,
+.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-item ul li a,
+.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li a,
+.noShowcaseContent.noHeaderContent .slideMenu ul li ul li.current-menu-ancestor a,
+.noShowcaseContent.noHeaderContent .slideMenu ul li ul li.current-menu-ancestor li a { 
+	background: none;
+	min-width: 160px;
+	white-space: nowrap;
+	padding: 7px 6px 8px;
+	margin: 0;
+	text-shadow: none;
+	border: 0;
+	color: #B9BBBE;
+	/* border radius */
+	-webkit-border-radius: 4px; 
+	-moz-border-radius: 4px; 
+	border-radius: 4px; 
+}
+/* Sub level menu current item */
+.slideMenu ul li ul li.current-menu-item a { color: #BADCED !important; }
+
+.csstransitions .slideMenu ul li ul li a {
+	transition: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+	transition: none;
+}
+
+.slideMenu ul li ul li a:hover, .slideMenu ul li ul li a.hover, 
+.slideMenu ul li.current-menu-item ul li a:hover, .slideMenu ul li.current-menu-item ul li a.hover,
+.slideMenu ul li ul li.current-menu-item a:hover, .slideMenu ul li ul li.current-menu-item a.hover,
+.slideMenu ul li.current-menu-ancestor ul li a:hover, .slideMenu ul li.current-menu-ancestor ul li a.hover,
+.slideMenu ul li.current-menu-ancestor ul li.current-menu-ancestor a:hover, .slideMenu ul li.current-menu-ancestor ul li.current-menu-ancestor a.hover,
+.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li a:hover, .noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li a.hover,
+.noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li.current-menu-ancestor a:hover, .noShowcaseContent.noHeaderContent .slideMenu ul li.current-menu-ancestor ul li.current-menu-ancestor a.hover  {
+	background: #131517 !important;
+	background: rgba(0,0,0,.45) !important;  /*background of menu items during onmouseover (hover state)*/	
+	color: #fff !important;
+	margin: 0;
+	text-shadow: none;
+}
+
+/* Holly Hack for IE \*/
+* html .slideMenu {height: 1%;} /*Holly Hack for IE7 and below*/
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.csstransitions .subDown {
+	/* animate style changes (hover, active, etc.) */
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+}
+
+.subDown, .subRight {
+	position: absolute;
+	top: 14px;
+	right: 10px;
+	display: block;
+	width: 5px;
+	height: 5px;
+	background: transparent url(../images/mm-subDown-link.png) no-repeat 0 0;
+}
+	/* for active tab that is same as backgroud color */
+	.noShowcaseContent.noHeaderContent .current-menu-item .subDown,	.noShowcaseContent.noHeaderContent .current-menu-ancestor .subDown  { background-image: url(../images/mm-subDown-bgTab-link.png); }
+	
+a:hover .subDown, a.hover .subDown, a.hover .subRight, a:hover .subRight { background-image: url(../images/mm-subDown-hover.png); }
+
+.csstransitions a:hover .subDown, .csstransitions a.hover .subDown { top: 16px; }
+.subRight, a.hover .subRight, a:hover .subRight { top: 13px; right: 10px; }
+
+/* active top level link */
+.slideMenu ul li.current-menu-item > a .subDown,
+.slideMenu ul li.current-menu-ancestor > a .subDown { top: 17px; }
+
+
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow{ /*shadow for NON CSS3 capable browsers*/
+position: absolute;
+left: 0;
+top: 0;
+width: 0;
+height: 0;
+background: silver;
+}
+
+.toplevelshadow{ /*shadow opacity for NON CSS3 capable browsers. Doesn't work in IE*/
+opacity: 0.8;
+}

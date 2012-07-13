@@ -1,0 +1,4458 @@
+# Copyright (C) 2010 Zenden
+# This file is distributed under the same license as the Zenden package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zenden 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/zenden\n"
+"POT-Creation-Date: 2012-03-16 17:02:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: attachment.php:7
+msgid "Attachment"
+msgstr ""
+
+#: attachment.php:68
+msgid "Original size is %s pixels"
+msgstr ""
+
+#: attachment.php:71
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:80
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: index.php:10
+msgid "Post format: %s"
+msgstr ""
+
+#: index.php:11
+msgid "Blog"
+msgstr ""
+
+#: page.php:24 single-standard.php:74 single-standard.php:81
+#: single-audio.php:94 single-video.php:27
+msgid "Pages:"
+msgstr ""
+
+#: search.php:7
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:34
+msgid "Sorry, nothing found"
+msgstr ""
+
+#: author.php:10
+msgid "Posts by %s"
+msgstr ""
+
+#: author.php:34
+msgid "About %s"
+msgstr ""
+
+#: single-standard.php:86 single-audio.php:100 single-video.php:33
+msgid "Read More"
+msgstr ""
+
+#: single-standard.php:109 wpv_common/widgets/tpl/posts-config.php:31
+#: single-audio.php:111 single-video.php:44
+msgid "Categories:"
+msgstr ""
+
+#: archive.php:7
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:10
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:12
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:14
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:16
+msgid "Category: %s"
+msgstr ""
+
+#: archive.php:18
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: header.php:36
+msgid "Page %s"
+msgstr ""
+
+#: header.php:199
+msgid "Skip to content"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:7
+#: wpv_common/admin/wpv_admin.php:24 wpv_common/wpv_framework.php:346
+msgid "Quick setup"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:12
+msgid "General"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:17
+#: wpv_theme/options/advanced/general.php:67
+msgid "Display \"scroll to top\" button"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:23
+#: wpv_theme/options/advanced/general.php:73
+msgid "Feedback button"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:27
+#: wpv_theme/options/advanced/general.php:77
+msgid "None"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:28
+#: wpv_theme/options/advanced/general.php:78
+#: wpv_theme/metaboxes/general.php:134
+msgid "Link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:29
+#: wpv_theme/options/advanced/general.php:79
+msgid "Slide out widget area"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:34
+#: wpv_theme/options/advanced/general.php:84
+msgid "Feedback button link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:40
+#: wpv_theme/options/advanced/general.php:90
+msgid "RSS Button in top right corner"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:46
+#: wpv_theme/options/advanced/general.php:96
+msgid "Facebook link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:52
+#: wpv_theme/options/advanced/general.php:102
+msgid "Twitter link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:58
+#: wpv_theme/options/advanced/general.php:108
+msgid "YouTube link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:64
+#: wpv_theme/options/advanced/general.php:114
+msgid "Flickr link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:70
+#: wpv_theme/options/advanced/general.php:120
+msgid "LinkedIn link"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:76
+#: wpv_theme/options/advanced/general.php:126
+msgid "Top menu phone number area"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:82
+msgid "Custom logo picture url"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:83
+#: wpv_theme/options/advanced/general.php:11
+msgid ""
+"Optional way to replace \"heading\" and \"description\" text for your "
+"website with an image. Leave blank if none required"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:89
+#: wpv_theme/options/advanced/general.php:18
+msgid "Copyright text (in footer)"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:90
+#: wpv_theme/options/advanced/general.php:19
+msgid "Custom text to appear in the footer"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:96
+msgid "Favicon url"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:97
+msgid ""
+"Upload your custom \"favicon\" which is visible in browser favorites and "
+"tabs.\n"
+"(Must be .png or .ico file - 16px by 16px ). Leave blank if none required"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:104
+#: wpv_theme/options/advanced/layouts.php:7
+msgid "Layout"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:109
+#: wpv_theme/options/advanced/layouts.php:17
+msgid ""
+"Below you can set the the width of the sidebars in the body, and the height "
+"of the header and slider area by dragging the blue gutters. You can enable "
+"or disable the slider, the header widget areas, the body sidebar areas and "
+"the footer widget areas. Please note, that whether the slider, the header "
+"widget areas or any of the body sidebars are displayed is just a default "
+"setting that can be overridden for newly created pages/posts/portfolio items."
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:115
+#: wpv_theme/options/advanced/layouts.php:23
+msgid "General layout"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:128
+#: wpv_theme/options/advanced/layouts.php:36
+msgid "Background slider height"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:136
+#: wpv_theme/options/advanced/layouts.php:56
+msgid "Sidebar layout for new pages"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:143
+#: wpv_theme/options/advanced/layouts.php:63
+msgid "Enable header slider"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:150
+#: wpv_theme/options/advanced/layouts.php:70
+msgid "Enable header widget areas"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:157
+#: wpv_theme/options/advanced/layouts.php:77
+msgid "Enable footer widget areas"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:164
+#: wpv_theme/options/advanced/layouts.php:84
+msgid "Enable boxed layout"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:176
+#: wpv_theme/options/advanced/layouts.php:101
+msgid "Header height"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:179
+#: wpv_theme/options/advanced/layouts.php:103
+msgid "This is the area above the slider"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:186
+#: wpv_theme/options/advanced/layouts.php:110
+msgid "Header slider height"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:187
+#: wpv_theme/options/advanced/layouts.php:111
+msgid "In pixels"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:196
+#: wpv_theme/options/advanced/layouts.php:119
+msgid "Site width"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:205
+#: wpv_theme/options/advanced/layouts.php:128
+msgid "Left sidebar width"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:213
+#: wpv_theme/options/advanced/layouts.php:135
+msgid "Right sidebar width"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:222
+#: wpv_theme/options/advanced/style.php:4
+msgid "Styles"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:227
+msgid "Main background"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:233
+msgid ""
+"You can also choose some of the preset background patterns we've crafted for "
+"you"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:242
+#: wpv_theme/options/advanced/style.php:29
+msgid "Pattern 00"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:251
+#: wpv_theme/options/advanced/style.php:38
+msgid "Pattern 01"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:260
+#: wpv_theme/options/advanced/style.php:47
+msgid "Pattern 02"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:269
+#: wpv_theme/options/advanced/style.php:56
+msgid "Pattern 03"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:278
+#: wpv_theme/options/advanced/style.php:65
+msgid "Pattern 04"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:287
+#: wpv_theme/options/advanced/style.php:74
+msgid "Pattern 05"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:296
+#: wpv_theme/options/advanced/style.php:83
+msgid "Pattern 06"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:305
+#: wpv_theme/options/advanced/style.php:92
+msgid "Pattern 07"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:314
+#: wpv_theme/options/advanced/style.php:101
+msgid "Pattern 08"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:323
+#: wpv_theme/options/advanced/style.php:110
+msgid "Pattern 09"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:332
+#: wpv_theme/options/advanced/style.php:119
+msgid "Pattern 10"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:341
+#: wpv_theme/options/advanced/style.php:128
+msgid "Pattern 11"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:350
+#: wpv_theme/options/advanced/style.php:137
+msgid "Pattern 12"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:359
+#: wpv_theme/options/advanced/style.php:146
+msgid "Pattern 13"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:368
+#: wpv_theme/options/advanced/style.php:155
+msgid "Pattern 14"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:377
+#: wpv_theme/options/advanced/style.php:164
+msgid "Pattern 15"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:389
+#: wpv_theme/options/advanced/style.php:224
+msgid "Accent color"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:395
+#: wpv_theme/options/advanced/style.php:230
+msgid "Accent color 2"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:401
+#: wpv_theme/options/advanced/style.php:236
+msgid "Accent color 3"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:407
+msgid "Header slider"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:412
+#: wpv_theme/options/advanced/sliders.php:11
+msgid "Slider editor"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:413
+#: wpv_theme/options/advanced/sliders.php:12
+msgid ""
+"Create a new slider, drag some images, set their captions and you'll have a "
+"nice looking slider"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:418
+#: wpv_theme/options/advanced/sliders.php:17
+msgid "Default slider"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:427
+#: wpv_theme/options/advanced/sliders.php:26
+msgid "Full width header slider"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:428
+#: wpv_theme/options/advanced/sliders.php:27
+msgid "Fullwidth option works only when Boxed Layout is set to \"OFF\""
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:434
+#: wpv_theme/options/advanced/sliders.php:33
+#: wpv_theme/metaboxes/general.php:105
+#: wpv_common/shortcodes/generator/slider.php:84
+msgid "Slider style"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:441
+#: wpv_theme/options/advanced/sliders.php:59
+msgid "Autostart"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:445
+#: wpv_theme/options/advanced/sliders.php:63
+msgid "Disable autostart"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:446
+#: wpv_theme/options/advanced/sliders.php:64
+msgid "Left (backwards)"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:447
+#: wpv_theme/options/advanced/sliders.php:65
+msgid "Right (forwards)"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:452
+msgid "Advanced"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:457
+#: wpv_theme/options/advanced/general.php:59
+msgid "Custom css"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:458
+msgid ""
+"Quickly add some CSS to your theme by adding it to this block. It will be "
+"parsed with cssmin"
+msgstr ""
+
+#: wpv_theme/options/advanced/sidebars.php:6
+msgid "Manage sidebars"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:12
+msgid "Simple layout editor"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:37
+msgid ""
+"You can set it to 0 if you want the slider to be as high as the browser "
+"window"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:45
+msgid "Background slider position"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:96
+msgid "Precise adjustment"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:148
+msgid "Header Layout"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:154
+msgid "Show page title"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:160
+#: wpv_theme/options/advanced/layouts.php:268
+msgid "Basic sidebars"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:161
+msgid ""
+"The widget areas bellow are placed between the slider and the body of the "
+"site. By default these areas are disabled. They can be enabled on every "
+"single page or post\n"
+"You can either choose one of the predefined layouts or configure your own in "
+"the \"Advanced\" section"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:167
+msgid ""
+"The widget areas bellow are placed between the slider and the body of the "
+"site. By default these areas are disabled. They can be enabled on every "
+"single page or post. You can either choose one of the predefined layouts or "
+"configure your own in the \"Advanced\" section"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:176
+#: wpv_theme/options/advanced/layouts.php:282
+msgid "1/3 | 1/3 | 1/3"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:195
+#: wpv_theme/options/advanced/layouts.php:301
+msgid "1/4 | 1/4 | 1/4 | 1/4"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:215
+#: wpv_theme/options/advanced/layouts.php:321
+msgid "1/5 | 1/5 | 1/5 | 1/5 | 1/5"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:237
+#: wpv_theme/options/advanced/layouts.php:343
+msgid "Advanced sidebars"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:242
+#: wpv_theme/options/advanced/layouts.php:348
+msgid ""
+"Please choose the number of widget areas and adjust each widget area's "
+"settings. You can adjust the width of the widget area from the sixth "
+"predefined and place them in one to six rows."
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:262
+msgid "Footer Layout"
+msgstr ""
+
+#: wpv_theme/options/advanced/layouts.php:273
+msgid ""
+"The footer widget areas are placed after the body of the site. You can "
+"either choose one of the predefined layouts or configure your own in the "
+"\"Advanced\" section"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:9
+msgid "General Backgrounds"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:14
+msgid "Page background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:20
+msgid ""
+"You can also use some of the preset background patterns we've crafted for you"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:176
+msgid "Content background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:182
+msgid "General Links"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:187
+msgid "Underline links"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:193
+msgid "Link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:198
+msgid "Visited link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:203
+msgid "Link hover color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:208
+msgid "Link underline color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:213
+msgid "Link hover underline color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:219
+msgid "General Colors"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:303
+msgid "General Typography"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:309
+msgid "Primary font"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:319
+msgid "Secondary font family"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:330
+msgid "Emphasis font"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:340
+msgid "h1"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:350
+msgid "h2"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:360
+msgid "h3"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:370
+msgid "h4"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:380
+msgid "h5"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:390
+msgid "h6"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:406
+msgid "Header"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:412
+#: wpv_theme/options/advanced/style.php:579
+msgid "Backgrounds"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:418
+msgid "Header background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:423
+msgid "Header background color opacity"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:432
+msgid "Header slider background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:438
+msgid "Top Header Menu Colors"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:443
+msgid "Top Header text color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:449
+msgid "Top Header links color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:455
+msgid "Top Header links hover color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:461
+msgid "Top Header current link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:467
+msgid "Site title"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:472
+msgid "Site title font"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:482
+#: wpv_theme/options/advanced/style.php:695
+msgid "Links"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:487
+msgid "Header widget areas link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:492
+msgid "Header widget areas visited link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:497
+msgid "Header widget areas link active color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:502
+msgid "Header widget areas link underline color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:507
+msgid "Header widget areas link hover underline color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:514
+msgid "Menu"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:519
+msgid "General menu font"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:530
+msgid "Menu hover text color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:535
+msgid "Menu hover background color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:540
+msgid "Submenu text color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:545
+msgid "Submenu background color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:550
+msgid "Submenu hover text color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:556
+msgid "Page Header Title"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:561 wpv_theme/metaboxes/general.php:66
+#: wpv_common/shortcodes/generator/price.php:82
+msgid "Title background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:573
+msgid "Body"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:584
+msgid "Body background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:590
+msgid "Body background opacity"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:599
+msgid "Menu widget"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:604
+msgid "Item background color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:610
+msgid "Item color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:616
+msgid "Current item background color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:628
+msgid "Footer"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:634
+msgid "Widget areas backgrounds"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:639
+msgid "Widget areas background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:645
+msgid "Background opacity"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:654
+msgid "Sub-footer backgrounds"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:660
+#: wpv_common/shortcodes/generator/text_divider.php:7
+#: wpv_common/shortcodes/generator/typography.php:26
+#: wpv_common/shortcodes/generator/typography.php:45
+#: wpv_common/shortcodes/generator/typography.php:213
+#: wpv_common/shortcodes/generator/slogan.php:7
+#: wpv_common/shortcodes/generator/buttons.php:7
+msgid "Text"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:665
+msgid "Widget areas"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:675
+msgid "Widget areas titles"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:685
+msgid "Sub-footer"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:700
+msgid "Footer widget areas link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:705
+msgid "Footer widget areas visited link color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:710
+msgid "Footer widget areas link active color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:715
+msgid "Footer widget areas link underline color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:720
+msgid "Footer widget areas link hover underline color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:799
+msgid "Forms"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:805
+#: wpv_common/shortcodes/generator/buttons.php:3
+msgid "Buttons"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:810
+msgid "Button text color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:815
+msgid "Button text hover color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:820
+msgid "Button border radius"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:829
+msgid "Text fields"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:834
+msgid "Text field color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:839
+msgid "Text field background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:845
+msgid "Text field active color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:850
+msgid "Text field active background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:862
+msgid "Tabs, Accordions and Toggles"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:868
+#: wpv_common/shortcodes/generator/tabs.php:3
+msgid "Tabs"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:873
+msgid "Tabs border color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:879
+msgid "Tab color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:884
+msgid "Tab background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:889
+msgid "Tab active color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:894
+msgid "Tab active background (primary)"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:899
+msgid "Tab active background (secondary)"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:905
+msgid "Accordions"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:910
+msgid "Accordion title color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:915
+msgid "Accordion title background (primary)"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:920
+msgid "Accordion title background (secondary)"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:925
+msgid "Accordion border color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:930
+msgid "Accordion pane opacity"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:939
+msgid "Toggles"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:944
+msgid "Toggle title color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:949
+msgid "Toggle title background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:954
+msgid "Toggle content color"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:959
+msgid "Toggle content background"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:969
+#: wpv_common/shortcodes/generator/sitemap.php:18
+#: wpv_common/shortcodes/generator/sitemap.php:102
+#: wpv_common/shortcodes/sitemap.php:152 wpv_common/widgets/posts.php:33
+msgid "Posts"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:975
+msgid "Single post options"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:980 wpv_theme/metaboxes/general.php:72
+msgid "Featured image position"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:984 wpv_theme/metaboxes/general.php:78
+msgid "Full width"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:985 wpv_theme/metaboxes/general.php:79
+#: wpv_common/shortcodes/generator/images.php:27
+#: wpv_common/shortcodes/generator/typography.php:69
+#: wpv_common/shortcodes/generator/buttons.php:41
+msgid "Left"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:986 wpv_theme/metaboxes/general.php:80
+#: wpv_common/shortcodes/generator/images.php:28
+#: wpv_common/shortcodes/generator/typography.php:70
+#: wpv_common/shortcodes/generator/buttons.php:42
+msgid "Right"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:991
+msgid "\"Side image\" dimensions"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:996
+msgid "Post thumbnail width"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1003
+msgid "Post thumbnail height"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1011
+msgid "\"Full image\" dimensions"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1016
+msgid "Post \"full image\" height"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1017
+msgid ""
+"This option has an effect for portfolio media objects (images, video) "
+"besides posts"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1024
+msgid "Meta"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1028
+msgid "Hide post author"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1033
+msgid "Show categories and tags"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1038
+msgid "Show post timestamp"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:1043
+msgid "Show comment count"
+msgstr ""
+
+#: wpv_theme/options/advanced/config_management.php:5
+msgid "Save/Import Skin"
+msgstr ""
+
+#: wpv_theme/options/advanced/config_management.php:10
+msgid "Last active skin: %s"
+msgstr ""
+
+#: wpv_theme/options/advanced/config_management.php:15
+msgid "Save current skin"
+msgstr ""
+
+#: wpv_theme/options/advanced/config_management.php:16
+msgid ""
+"If you use the same name as a previously saved skin it will overwrite the "
+"latter."
+msgstr ""
+
+#: wpv_theme/options/advanced/config_management.php:21
+msgid "Import saved skin"
+msgstr ""
+
+#: wpv_theme/options/advanced/config_management.php:22
+msgid ""
+"If you have made changes on the active skin, please save it before "
+"activating another skin. Otherwise you will lose these changes."
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:5
+msgid "General Settings"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:10
+msgid "Custom logo picture"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:26
+msgid "Favicon"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:27
+msgid ""
+"Upload your custom \"favicon\" which is visible in browser favorites and "
+"tabs.\n"
+"(Must be .png or .ico file - preferably 16px by 16px ). Leave blank if none "
+"required"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:35
+msgid "Google Maps API Key"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:36
+msgid ""
+"Paste your Google Maps API Key here. If you don't have one, please sign up "
+"for a <a href='http://code.google.com/intl/en-US/apis/maps/signup."
+"html'>Google Maps API key</a>."
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:44
+msgid "Google Analytics Key"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:45
+msgid ""
+"Paste your key here. It should be something like UA-XXXXX-X. We're using the "
+"faster asynchronous loader, so you don't need to worry about speed :)"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:52
+msgid "Custom javascript (in footer)"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:60
+msgid "Put your css modifications here"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:132
+msgid "Share icons"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:133
+msgid ""
+"Select the social medias you want enabled and for which parts of the website"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:138
+msgid "Disable image lazy loading"
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:139
+msgid ""
+"While this is not recommended you may want to have all your images on the "
+"site start loading at the same time and not on demand"
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:5
+msgid "Quick import"
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:9
+msgid "Content import"
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:10
+msgid ""
+"You are advised to use this importer only on new WordPress sites, as in "
+"doing so you will end up with quite a lot of example posts, pages, slides "
+"and portfolio items."
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:11
+msgid "Import dummy content"
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:17
+msgid "Widget import"
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:18
+msgid "Using this importer will overwrite your current sidebar settings"
+msgstr ""
+
+#: wpv_theme/options/advanced/import.php:19
+msgid "Import widgets"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:6
+msgid "Header Slider"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:40
+#: wpv_common/shortcodes/generator/showcase.php:70
+#: wpv_common/shortcodes/generator/slider.php:70
+msgid "Pause time"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:47
+#: wpv_common/shortcodes/generator/showcase.php:78
+#: wpv_common/shortcodes/generator/slider.php:78
+msgid "Pause on hover"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:52
+msgid "Animation time"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:70
+msgid "Easing"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:71
+msgid "Animation easings are most visible with sliding type effects"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:89
+msgid "Grid options"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:94
+msgid ""
+"For optimum performance, please mind that rows*cols should not exceed 50"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:100
+msgid "Visible grid"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:106
+msgid "Grid color"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:112
+msgid "Grid rows"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:119
+msgid "Grid cols"
+msgstr ""
+
+#: wpv_theme/options/advanced/sliders.php:127
+msgid "Wave type"
+msgstr ""
+
+#: wpv_theme/shortcode_templates/portfolio.php:10
+msgid "Show:"
+msgstr ""
+
+#: wpv_theme/shortcode_templates/portfolio.php:12
+#: wpv_common/shortcodes/generator/sitemap.php:8
+msgid "All"
+msgstr ""
+
+#: wpv_theme/shortcode_templates/team_member.php:22
+msgid "email %s"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:7
+msgid "Use global options"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:8
+msgid ""
+"If this option is enabled, some of the local options which have global "
+"equivalents will not be taken into account. Hence, if this option is "
+"disabled, these local options will overwrite the global settings for this "
+"post"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:15
+msgid "Layout and styles"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:20
+msgid "Layout type"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:27
+msgid "Left sidebar"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:30 wpv_theme/metaboxes/general.php:38
+#: wpv_common/shortcodes/generator/tabs.php:21
+msgid "Default"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:35
+msgid "Right sidebar"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:44
+msgid "Show header widget areas"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:45
+msgid ""
+"These can be configured from \"Vamtam\" -> \"Theme options\" -> \"Header\""
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:53
+msgid "Show page title header"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:60
+msgid "Custom background"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:85 wpv_theme/metaboxes/general.php:90
+msgid "Slider"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:99
+msgid "Show slider in header"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:112
+msgid "Show full width slider"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:118
+msgid "Slider position"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:128
+msgid "Post format settings"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:135
+msgid "Used in the \"quote\", \"link\", \"audio\" and \"video\" formats"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:143
+msgid "Quote author"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:144
+msgid "Used in the \"quote\" format"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:152
+#: wpv_common/admin/helpers/config_generator/social.php:9
+#: wpv_common/shortcodes/generator/portfolio.php:3
+msgid "Portfolio"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:158
+msgid "Portfolio data type"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:159
+msgid ""
+"Image - uses the featured image (default)<br />\n"
+"\t\t\t\t  Gallery - use the featured image as a title image, but add more "
+"image via the form below \n"
+"\t\t\t\t  Video/Link - uses the \"portfolio data url\" setting<br />\n"
+"\t\t\t\t  Document - acts like a normal post\n"
+"\t\t\t\t"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:177
+msgid "Portfolio data url"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:184
+msgid "Portfolio video width"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:185 wpv_theme/metaboxes/general.php:195
+msgid "Only applicable if the Portfolio data type is \"Video\""
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:194
+msgid "Portfolio video height"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:204
+msgid "Portfolio link target"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:205
+msgid "Only applicable if the Portfolio data type is \"Link\""
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:8
+msgid "Captions"
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:13
+msgid "Slide content"
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:13
+msgid "First caption"
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:21
+msgid "Second caption"
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:28
+msgid "Third caption"
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:36
+#: wpv_common/shortcodes/generator/typography.php:116
+#: wpv_common/shortcodes/generator/typography.php:159
+#: wpv_common/shortcodes/generator/tabs.php:16
+msgid "Style"
+msgstr ""
+
+#: wpv_theme/metaboxes/slideshow.php:41
+#: wpv_common/shortcodes/generator/slogan.php:37
+msgid "Background"
+msgstr ""
+
+#: wpv_theme/helpers/base.php:21
+msgid "Gallery"
+msgstr ""
+
+#: wpv_theme/helpers/base.php:22
+#: wpv_common/shortcodes/generator/showcase.php:16
+msgid "Showcase"
+msgstr ""
+
+#: wpv_theme/helpers/base.php:108
+msgid "by %s"
+msgstr ""
+
+#: wpv_theme/helpers/base.php:113
+msgid "Reply"
+msgstr ""
+
+#: wpv_theme/helpers/base.php:114
+msgid "Log in to reply."
+msgstr ""
+
+#: wpv_theme/helpers/base.php:122
+msgid ""
+"\t\t\t\t\t<span class='unapproved'>Your comment is awaiting moderation.</"
+"span>\n"
+msgstr ""
+
+#: wpv_common/plugins/importer/parsers.php:110
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:146
+#: wpv_common/plugins/importer/importer.php:155
+#: wpv_common/plugins/importer/importer.php:240
+#: wpv_common/plugins/importer/importer.php:248
+#: wpv_common/plugins/widget-importer/importer.php:94
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:147
+#: wpv_common/plugins/widget-importer/importer.php:95
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:195
+#: wpv_common/plugins/widget-importer/importer.php:107
+msgid "All done."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:195
+#: wpv_common/plugins/widget-importer/importer.php:107
+msgid "Have fun!"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:196
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:256
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:281
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:307
+msgid "Assign Authors"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:308
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:310
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:320
+msgid "Import Attachments"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:323
+msgid "Download and import file attachments"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:327
+#: wpv_common/shortcodes/widgets.php:21
+#: wpv_common/widgets/tpl/contactform-widget.php:29
+msgid "Submit"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:340
+msgid "Import author:"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:351
+msgid "or create new user with login name:"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:354
+msgid "as a new user:"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:362
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:364
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:365
+msgid "- Select -"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:413
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:462
+msgid "Failed to import category %s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:500
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:544
+#: wpv_common/plugins/importer/importer.php:670
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:566
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:587
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:642
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:781
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:788
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:851
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:864
+msgid "Invalid file type"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:908
+msgid "Remote server did not respond"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:914
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:921
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:926
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:932
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:1031
+msgid "Import WordPress"
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:1038
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:1053
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:1054
+msgid "Choose a WXR file to upload, then click Upload file and import."
+msgstr ""
+
+#: wpv_common/plugins/importer/importer.php:1126
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, tags and "
+"sidebars</strong> from a %s dummy content file."
+msgstr ""
+
+#: wpv_common/plugins/widget-importer/importer.php:126
+msgid "Import Vamtam Widgets"
+msgstr ""
+
+#: wpv_common/plugins/widget-importer/importer.php:147
+msgid ""
+"Import widgets from Vamtam themes, not to be used as a stand-alone product."
+msgstr ""
+
+#: wpv_common/admin/options/advanced.php:4
+#: wpv_common/admin/options/advanced.php:8 wpv_common/admin/wpv_admin.php:25
+msgid "Vamtam | advanced options"
+msgstr ""
+
+#: wpv_common/admin/options/help.php:3 wpv_common/admin/options/help.php:8
+#: wpv_common/admin/wpv_admin.php:26 wpv_common/wpv_framework.php:362
+msgid "Help"
+msgstr ""
+
+#: wpv_common/admin/options/quick_setup.php:4
+#: wpv_common/admin/options/quick_setup.php:8
+#: wpv_common/admin/wpv_admin.php:24
+msgid "Vamtam | quick setup"
+msgstr ""
+
+#: wpv_common/admin/metaboxes/template.php:5
+msgid "Vamtam templates"
+msgstr ""
+
+#: wpv_common/admin/metaboxes/general.php:5
+msgid "Vamtam options"
+msgstr ""
+
+#: wpv_common/admin/types/portfolio.php:10
+msgctxt "column name"
+msgid "Title"
+msgstr ""
+
+#: wpv_common/admin/types/portfolio.php:11
+#: wpv_common/admin/types/slideshow.php:11
+#: wpv_common/shortcodes/generator/sitemap.php:17
+#: wpv_common/shortcodes/generator/sitemap.php:62
+#: wpv_common/shortcodes/sitemap.php:151
+msgid "Categories"
+msgstr ""
+
+#: wpv_common/admin/types/portfolio.php:12
+#: wpv_common/admin/types/slideshow.php:12
+msgid "Author"
+msgstr ""
+
+#: wpv_common/admin/types/portfolio.php:13
+#: wpv_common/admin/types/slideshow.php:13
+msgid "Date"
+msgstr ""
+
+#: wpv_common/admin/types/portfolio.php:14
+#: wpv_common/admin/types/slideshow.php:14
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:21
+msgid "Thumbnail"
+msgstr ""
+
+#: wpv_common/admin/types/slideshow.php:10
+msgctxt "column name"
+msgid "Excerpt"
+msgstr ""
+
+#: wpv_common/admin/types/slideshow.php:64
+msgid "Auto draft"
+msgstr ""
+
+#: wpv_common/admin/wpv_admin.php:25 wpv_common/wpv_framework.php:354
+msgid "Advanced options"
+msgstr ""
+
+#: wpv_common/admin/wpv_admin.php:26
+msgid "Vamtam | help"
+msgstr ""
+
+#: wpv_common/admin/ajax/get_shortcodes.php:6
+msgid "Shortcodes"
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:54 wpv_common/admin/ajax/base.php:67
+#: wpv_common/admin/ajax/base.php:153
+msgid "Success."
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:56 wpv_common/admin/ajax/base.php:155
+msgid "Cannot save file."
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:69 wpv_common/admin/ajax/base.php:168
+msgid "Cannot delete file."
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:82
+#: wpv_common/admin/helpers/config_generator/config-import.php:8
+msgid "Available skins"
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:125
+msgid "Available templates"
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:166
+msgid "Deleted."
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:181
+msgid "Saved"
+msgstr ""
+
+#: wpv_common/admin/ajax/base.php:272
+msgid "Save changes"
+msgstr ""
+
+#: wpv_common/admin/assets/js/shortcodes_tinymce.js.php:37
+msgid "Vamtam.com shortcodes"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:3
+msgid "color"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:4
+msgid "image"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:5
+msgid "repeat"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:6
+msgid "attachment"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:7
+msgid "position"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:31
+msgid "No repeat"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:32
+msgid "Repeat horizontally"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:33
+msgid "Repeat vertically"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:34
+msgid "Repeat both"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:37
+msgid "scroll"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:38
+msgid "fixed"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:41
+msgid "left center"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:42
+msgid "left top"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:43
+msgid "left bottom"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:44
+msgid "center center"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:45
+msgid "center top"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:46
+msgid "center bottom"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:47
+msgid "right center"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:48
+msgid "right top"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/background.php:49
+msgid "right bottom"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/templates.php:12
+msgid "Save"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/templates.php:13
+msgid ""
+"If you use the same name as a previously saved template it will overwrite "
+"the latter."
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/templates.php:18
+msgid "Loading..."
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/templates.php:21
+msgid "Load"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/templates.php:22
+#: wpv_common/admin/helpers/config_generator/config-import.php:11
+#: wpv_common/admin/helpers/media-upload.php:23
+#: wpv_common/admin/helpers/gallery-upload.php:24
+msgid "Delete"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slide.php:15
+msgid "Slide type"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slide.php:17
+#: wpv_common/shortcodes/generator/blog.php:61
+#: wpv_common/shortcodes/generator/services.php:13
+msgid "Image"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slide.php:18
+msgid "HTML"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/save.php:4
+#: wpv_common/admin/helpers/config_generator/title.php:18
+msgid "Delete options"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/save.php:4
+#: wpv_common/admin/helpers/config_generator/title.php:18
+msgid "Save Changes"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/separator.php:3
+msgid "Click to toggle"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/social.php:7
+msgid "Post"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/social.php:8
+#: wpv_common/helpers/dimox-breadcrumbs.php:106
+msgid "Page"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/social.php:10
+#: wpv_common/shortcodes/generator/images.php:34
+msgid "Lightbox"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:18
+msgid "Enabled"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:19
+msgid "Disabled"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:41
+msgid "Left body sidebar"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:50
+msgid "Site width:"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:55
+msgid "Body content width:"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:62
+msgid "Right body sidebar"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:71
+msgid "Footer widget areas"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:76
+msgid "Subfooter"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:83
+msgid "Header height:"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:90
+msgid "Slider height:"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:97
+msgid "Header widget areas"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/sidebar_management.php:5
+msgid "Current sidebars"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:22
+#: wpv_common/shortcodes/generator/price.php:7
+#: wpv_common/shortcodes/generator/toggle.php:7
+#: wpv_common/shortcodes/generator/lightbox.php:20
+#: wpv_common/shortcodes/generator/services.php:7
+msgid "Title"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:23
+#: wpv_common/shortcodes/generator/price.php:37
+#: wpv_common/shortcodes/generator/team_member.php:19
+#: wpv_common/shortcodes/generator/services.php:27
+msgid "Description"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:24
+msgid "Actions"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/upload-basic.php:5
+#: wpv_common/admin/helpers/media-upload.php:37
+msgid "Insert"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/upload-basic.php:6
+msgid "Remove"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/upload-basic.php:23
+#: wpv_common/admin/helpers/media-upload.php:30
+#: wpv_common/admin/helpers/gallery-upload.php:31
+msgid "Undo"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/title.php:7
+msgid "Loading"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/title.php:14
+msgid "Documentation"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/title.php:15
+msgid "Support"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:7
+#: wpv_common/wpv_framework.php:165
+msgid "Slides"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:8
+msgid "New HTML slide"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:9
+msgid "New image slide"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:10
+msgid "[remove]"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:11
+msgid ""
+"Are you sure you want to delete this slider? This will also permanently "
+"delete its slides"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:12
+msgid "Do you want to delete this slide permanently?"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:13
+msgid "Please add some slides"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:26
+msgid "Add slider"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/horizontal_blocks.php:46
+msgid "last?"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/font.php:69
+msgid "font size"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/font.php:70
+msgid "line height"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/font.php:73
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr ""
+
+#: wpv_common/admin/helpers/shortcodes/render.php:4
+#: wpv_common/admin/helpers/shortcodes/render.php:42
+msgid "Send Shortcode to Editor »"
+msgstr ""
+
+#: wpv_common/admin/helpers/shortcodes/render.php:9
+#: wpv_common/shortcodes/generator/typography.php:94
+#: wpv_common/shortcodes/generator/column.php:7
+#: wpv_common/shortcodes/generator/divider.php:7
+#: wpv_common/shortcodes/generator/styled_boxes.php:60
+#: wpv_common/shortcodes/generator/widget.php:70
+msgid "Type"
+msgstr ""
+
+#: wpv_common/admin/helpers/shortcodes/render.php:41
+#: wpv_common/admin/helpers/shortcodes/render.php:46
+msgid "Preview"
+msgstr ""
+
+#: wpv_common/admin/helpers/media-upload.php:21
+#: wpv_common/admin/helpers/gallery-upload.php:22
+msgid "Delete Permanently"
+msgstr ""
+
+#: wpv_common/admin/helpers/media-upload.php:24
+#: wpv_common/admin/helpers/gallery-upload.php:25
+msgid "You are about to delete <strong>%s</strong>."
+msgstr ""
+
+#: wpv_common/admin/helpers/media-upload.php:25
+#: wpv_common/admin/helpers/gallery-upload.php:26
+msgid "Continue"
+msgstr ""
+
+#: wpv_common/admin/helpers/media-upload.php:26
+#: wpv_common/admin/helpers/gallery-upload.php:27
+msgid "Cancel"
+msgstr ""
+
+#: wpv_common/admin/helpers/media-upload.php:29
+#: wpv_common/admin/helpers/gallery-upload.php:30
+msgid "Move to Trash"
+msgstr ""
+
+#: wpv_common/admin/helpers/base.php:206
+msgid ""
+"The theme must be installed in a directory which is a direct child of wp-"
+"content/themes/"
+msgstr ""
+
+#: wpv_common/admin/helpers/base.php:210
+msgid ""
+"You must set write permissions (755 or 777) for the cache directory (%s)"
+msgstr ""
+
+#: wpv_common/admin/helpers/base.php:214
+msgid ""
+"It seems that your server doesn't have the GD graphic library installed. "
+"Please contact your hosting provider, they should be able to assist you with "
+"this issue"
+msgstr ""
+
+#: wpv_common/admin/helpers/base.php:224
+msgid "There were some some errors with your Vamtam theme setup:"
+msgstr ""
+
+#: wpv_common/admin/helpers/gallery-upload.php:38
+msgid "Insert into Gallery"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:129
+msgid "Menu Header"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:130
+msgid "Menu Top"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:166
+msgid "Slide"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:167
+msgctxt "slide"
+msgid "Add New"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:168
+msgid "Add New Slide"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:169
+msgid "Edit Slide"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:170
+msgid "New Slide"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:171
+msgid "View Slide"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:172
+msgid "Search Slides"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:173
+msgid "No slides found"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:174
+msgid "No slides found in Trash"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:189 wpv_common/wpv_framework.php:246
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:190
+msgctxt "taxonomy singular name"
+msgid "Slideshow Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:191 wpv_common/wpv_framework.php:248
+msgid "Search Categories"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:192 wpv_common/wpv_framework.php:249
+msgid "Popular Categories"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:193 wpv_common/wpv_framework.php:250
+msgid "All Categories"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:196
+msgid "Edit Slideshow Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:197
+msgid "Update Slideshow Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:198
+msgid "Add New Slideshow Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:199
+msgid "New Slideshow Category Name"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:200
+msgid "Separate Slideshow categories with commas"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:201
+msgid "Add or remove Slideshow category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:202
+msgid "Choose from the most used Slideshow categories"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:212
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:213
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:214
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:215
+msgid "Add New Portfolio"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:216
+msgid "Edit Portfolio"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:217
+msgid "New Portfolio"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:218
+msgid "View Portfolio"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:219
+msgid "Search Portfolios"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:220
+msgid "No portfolios found"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:221
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:224
+msgid "portfolio"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:247
+msgctxt "taxonomy singular name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:253
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:254
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:255
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:256
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:257
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:258
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: wpv_common/wpv_framework.php:259
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#. #-#-#-#-#  zenden.pot (Zenden 1.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: wpv_common/wpv_framework.php:338
+msgid "Vamtam"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:17
+#: wpv_common/widgets/tpl/contactform-widget.php:9
+msgid "Your message was successfully sent. <strong>Thank You!</strong>"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:19
+msgid "Name *"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:20
+msgid "Email *"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:47
+#: wpv_common/widgets/tpl/twitter-widget.php:19
+msgid "about %d seconds ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:48
+#: wpv_common/widgets/tpl/twitter-widget.php:20
+msgid "about a minute ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:49
+#: wpv_common/widgets/tpl/twitter-widget.php:21
+msgid "about %d minutes ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:50
+#: wpv_common/widgets/tpl/twitter-widget.php:22
+msgid "about an hour ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:51
+#: wpv_common/widgets/tpl/twitter-widget.php:23
+msgid "about %d hours ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:52
+#: wpv_common/widgets/tpl/twitter-widget.php:24
+msgid "about a day ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:53
+#: wpv_common/widgets/tpl/twitter-widget.php:25
+msgid "about %d days ago"
+msgstr ""
+
+#: wpv_common/shortcodes/widgets.php:54
+#: wpv_common/widgets/tpl/twitter-widget.php:26
+msgid "view tweet on twitter"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/accordion.php:3
+msgid "Accordion"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/accordion.php:7
+msgid "Number of panes"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/accordion.php:16
+msgid "Mini"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/accordion.php:22
+#: wpv_common/shortcodes/generator/accordion.php:34
+#: wpv_common/shortcodes/generator/accordion.php:46
+#: wpv_common/shortcodes/generator/accordion.php:58
+#: wpv_common/shortcodes/generator/accordion.php:70
+#: wpv_common/shortcodes/generator/accordion.php:82
+#: wpv_common/shortcodes/generator/accordion.php:94
+#: wpv_common/shortcodes/generator/accordion.php:106
+msgid "Accordion %d Title"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/accordion.php:28
+#: wpv_common/shortcodes/generator/accordion.php:40
+#: wpv_common/shortcodes/generator/accordion.php:52
+#: wpv_common/shortcodes/generator/accordion.php:64
+#: wpv_common/shortcodes/generator/accordion.php:76
+#: wpv_common/shortcodes/generator/accordion.php:88
+#: wpv_common/shortcodes/generator/accordion.php:100
+#: wpv_common/shortcodes/generator/accordion.php:112
+msgid "Accordion %d Content"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:3
+msgid "Images"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:7
+msgid "Image Source Url"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:8
+msgid "Please use one of: jpg, png, bmp, gif"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:15
+msgid "Image Title (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:22
+#: wpv_common/shortcodes/generator/typography.php:64
+#: wpv_common/shortcodes/generator/buttons.php:36
+#: wpv_common/shortcodes/generator/styled_boxes.php:96
+msgid "Align (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:25
+#: wpv_common/shortcodes/generator/typography.php:67
+#: wpv_common/shortcodes/generator/typography.php:132
+#: wpv_common/shortcodes/generator/typography.php:188
+#: wpv_common/shortcodes/generator/typography.php:228
+#: wpv_common/shortcodes/generator/buttons.php:39
+#: wpv_common/shortcodes/generator/buttons.php:57
+#: wpv_common/shortcodes/generator/styled_boxes.php:100
+#: wpv_common/shortcodes/generator/widget.php:115
+#: wpv_common/shortcodes/generator/gmap.php:91
+msgid "Choose one.."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:29
+#: wpv_common/shortcodes/generator/typography.php:71
+#: wpv_common/shortcodes/generator/buttons.php:43
+msgid "Center"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:40
+msgid "Lightbox group (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:46
+#: wpv_common/shortcodes/generator/video.php:90
+#: wpv_common/shortcodes/generator/video.php:135
+#: wpv_common/shortcodes/generator/video.php:165
+#: wpv_common/shortcodes/generator/video.php:202
+#: wpv_common/shortcodes/generator/styled_boxes.php:18
+#: wpv_common/shortcodes/generator/styled_boxes.php:109
+#: wpv_common/shortcodes/generator/lightbox.php:35
+#: wpv_common/shortcodes/generator/gmap.php:7
+msgid "Width (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:55
+#: wpv_common/shortcodes/generator/video.php:99
+#: wpv_common/shortcodes/generator/video.php:144
+#: wpv_common/shortcodes/generator/video.php:174
+#: wpv_common/shortcodes/generator/video.php:211
+#: wpv_common/shortcodes/generator/styled_boxes.php:27
+#: wpv_common/shortcodes/generator/lightbox.php:43
+msgid "Height (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:64
+msgid "Auto adjust Height"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:70
+#: wpv_common/shortcodes/generator/buttons.php:48
+msgid "Link (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:77
+msgid "Link class (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:84
+msgid "Quality (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:93
+msgid "Frame"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/images.php:99
+msgid "Underline"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/text_divider.php:3
+msgid "Text divider"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:3
+#: wpv_common/shortcodes/generator/price.php:13
+msgid "Price"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:19
+msgid "Currency"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:25
+msgid "Duration"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:31
+msgid "Summary"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:43
+#: wpv_common/shortcodes/generator/slogan.php:13
+#: wpv_common/shortcodes/generator/services.php:33
+msgid "Button text"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:49
+#: wpv_common/shortcodes/generator/slogan.php:19
+#: wpv_common/shortcodes/generator/services.php:39
+msgid "Button link"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:55
+#: wpv_common/shortcodes/generator/services.php:45
+msgid "Text alignment"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:67
+#: wpv_common/shortcodes/generator/services.php:57
+msgid "Title size"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:75
+msgid "Title color"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:76
+#: wpv_common/shortcodes/generator/price.php:83
+#: wpv_common/shortcodes/generator/price.php:90
+#: wpv_common/shortcodes/generator/price.php:97
+#: wpv_common/shortcodes/generator/price.php:112
+#: wpv_common/shortcodes/generator/price.php:119
+#: wpv_common/shortcodes/generator/slogan.php:38
+#: wpv_common/shortcodes/generator/slogan.php:45
+#: wpv_common/shortcodes/generator/buttons.php:68
+msgid "Please click the Preview button to see its effect"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:89
+msgid "Price color"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:96
+msgid "Price background"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:103
+msgid "Price size"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:111
+msgid "Description color"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/price.php:118
+msgid "Description background"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:3
+msgid "Typography"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:8
+msgid "Vertical blank space"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:12
+#: wpv_common/shortcodes/generator/showcase.php:47
+#: wpv_common/shortcodes/generator/video.php:53
+#: wpv_common/shortcodes/generator/gmap.php:17
+#: wpv_common/shortcodes/generator/slider.php:37
+#: wpv_common/shortcodes/generator/iframe.php:22
+msgid "Height"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:22
+#: wpv_common/shortcodes/generator/typography.php:41
+msgid "Drop Cap %s"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:32
+#: wpv_common/shortcodes/generator/typography.php:51
+#: wpv_common/shortcodes/generator/typography.php:129
+#: wpv_common/shortcodes/generator/typography.php:185
+#: wpv_common/shortcodes/generator/widget.php:112
+msgid "Color (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:33
+#: wpv_common/shortcodes/generator/typography.php:52
+msgid "Please click \"Preview\" to see the correct color in the preview"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:60
+msgid "Block Quotes"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:76
+msgid "Cite (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:82
+#: wpv_common/shortcodes/generator/typography.php:104
+#: wpv_common/shortcodes/generator/typography.php:146
+#: wpv_common/shortcodes/generator/typography.php:236
+#: wpv_common/shortcodes/generator/column.php:37
+#: wpv_common/shortcodes/generator/toggle.php:13
+#: wpv_common/shortcodes/generator/table.php:7
+#: wpv_common/shortcodes/generator/styled_boxes.php:12
+#: wpv_common/shortcodes/generator/styled_boxes.php:72
+#: wpv_common/shortcodes/generator/styled_boxes.php:90
+#: wpv_common/shortcodes/generator/lightbox.php:7
+msgid "Content"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:90
+msgid "Pre & Code"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:112
+msgid "Styled List"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:147
+msgid "Please insert a valid HTML unordered list"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:155
+msgid "Icon with text"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:202
+#: wpv_common/shortcodes/generator/buttons.php:25
+msgid "Size"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:207
+#: wpv_common/shortcodes/generator/buttons.php:29
+msgid "Small"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:208
+#: wpv_common/shortcodes/generator/buttons.php:30
+msgid "Medium"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:209
+#: wpv_common/shortcodes/generator/buttons.php:31
+msgid "Large"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:221
+#: wpv_common/shortcodes/generator/showcase.php:90
+#: wpv_common/shortcodes/generator/slider.php:97
+msgid "Highlight"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:225
+msgid "Type (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:230
+msgid "light"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/typography.php:231
+msgid "dark"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:3
+msgid "Columns"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:8
+msgid "Two Column Layout"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:12
+#: wpv_common/shortcodes/generator/columns.php:18
+#: wpv_common/shortcodes/generator/columns.php:30
+#: wpv_common/shortcodes/generator/columns.php:36
+#: wpv_common/shortcodes/generator/columns.php:42
+#: wpv_common/shortcodes/generator/columns.php:54
+#: wpv_common/shortcodes/generator/columns.php:60
+#: wpv_common/shortcodes/generator/columns.php:66
+#: wpv_common/shortcodes/generator/columns.php:72
+#: wpv_common/shortcodes/generator/columns.php:84
+#: wpv_common/shortcodes/generator/columns.php:90
+#: wpv_common/shortcodes/generator/columns.php:96
+#: wpv_common/shortcodes/generator/columns.php:102
+#: wpv_common/shortcodes/generator/columns.php:108
+#: wpv_common/shortcodes/generator/columns.php:120
+#: wpv_common/shortcodes/generator/columns.php:126
+#: wpv_common/shortcodes/generator/columns.php:132
+#: wpv_common/shortcodes/generator/columns.php:138
+#: wpv_common/shortcodes/generator/columns.php:144
+#: wpv_common/shortcodes/generator/columns.php:150
+#: wpv_common/shortcodes/generator/columns.php:162
+#: wpv_common/shortcodes/generator/columns.php:168
+#: wpv_common/shortcodes/generator/columns.php:180
+#: wpv_common/shortcodes/generator/columns.php:186
+#: wpv_common/shortcodes/generator/columns.php:198
+#: wpv_common/shortcodes/generator/columns.php:204
+#: wpv_common/shortcodes/generator/columns.php:216
+#: wpv_common/shortcodes/generator/columns.php:222
+#: wpv_common/shortcodes/generator/columns.php:234
+#: wpv_common/shortcodes/generator/columns.php:240
+#: wpv_common/shortcodes/generator/columns.php:246
+#: wpv_common/shortcodes/generator/columns.php:258
+#: wpv_common/shortcodes/generator/columns.php:264
+#: wpv_common/shortcodes/generator/columns.php:270
+#: wpv_common/shortcodes/generator/columns.php:282
+#: wpv_common/shortcodes/generator/columns.php:288
+#: wpv_common/shortcodes/generator/columns.php:294
+#: wpv_common/shortcodes/generator/columns.php:306
+#: wpv_common/shortcodes/generator/columns.php:312
+#: wpv_common/shortcodes/generator/columns.php:324
+#: wpv_common/shortcodes/generator/columns.php:330
+#: wpv_common/shortcodes/generator/columns.php:342
+#: wpv_common/shortcodes/generator/columns.php:348
+#: wpv_common/shortcodes/generator/columns.php:360
+#: wpv_common/shortcodes/generator/columns.php:366
+#: wpv_common/shortcodes/generator/columns.php:378
+#: wpv_common/shortcodes/generator/columns.php:384
+#: wpv_common/shortcodes/generator/columns.php:396
+#: wpv_common/shortcodes/generator/columns.php:402
+#: wpv_common/shortcodes/generator/columns.php:414
+#: wpv_common/shortcodes/generator/columns.php:420
+#: wpv_common/shortcodes/generator/columns.php:426
+#: wpv_common/shortcodes/generator/columns.php:432
+msgid "%s Content"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:26
+msgid "Three Column Layout"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:50
+msgid "Four Column Layout"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:80
+msgid "Five Column Layout"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:116
+msgid "Six Column Layout"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:158
+msgid "One Third - Two Third"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:176
+msgid "Two Third - One Third"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:194
+msgid "One Fourth - Three Fourth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:212
+msgid "Three Fourth - One Fourth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:230
+msgid "One Fourth - One Fourth - One Half"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:254
+msgid "One Fourth - One Half - One Fourth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:278
+msgid "One Half - One Fourth - One Fourth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:302
+msgid "Four Fifth - One Fifth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:320
+msgid "One Fifth - Four Fifth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:338
+msgid "Two Fifth - Three Fifth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:356
+msgid "Three Fifth - Two Fifth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:374
+msgid "One Sixth - Five Sixth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:392
+msgid "Five Sixth - One Sixth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/columns.php:410
+msgid "One Sixth - One Sixth - One Sixth - One Half"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/column.php:3
+msgid "Single column"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:7
+#: wpv_common/shortcodes/generator/sitemap.php:12
+msgid "Column"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:11
+msgid "%d Column"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:12
+#: wpv_common/shortcodes/generator/portfolio.php:13
+#: wpv_common/shortcodes/generator/portfolio.php:14
+msgid "%d Columns"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:19
+#: wpv_common/shortcodes/generator/blog.php:17
+msgid "Parent column"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:21
+#: wpv_common/shortcodes/generator/blog.php:19
+msgid ""
+"If you have put this shortcode in a column, you need to specify the width of "
+"the parent column"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:34
+msgid "No Paging"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:36
+#: wpv_common/shortcodes/generator/blog.php:95
+msgid "If the option is on, it will disable pagination"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:41
+msgid "Max"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:42
+msgid ""
+"Number of item to show per page. If you set it to -1, it will display all "
+"portfolio items"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:51
+#: wpv_common/shortcodes/generator/services.php:19
+msgid "Image height"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:59
+msgid "Sortable"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:61
+msgid ""
+"If the option is on, it will disable pagination, displaying all posts by "
+"category with sortable."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:66
+msgid "Categories (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:73
+msgid "Ids (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:74
+msgid "The specific portfolios you want to display"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:81
+msgid "Display Title"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:83
+msgid "If the option is on, it will display title of portfolio."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:88
+msgid "Display Description"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:90
+msgid "If the option is on, it will display description of portfolio."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:95
+msgid "Display More Button"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:97
+msgid "If the option is on, it will display more button."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:102
+msgid "More Button Text"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:104
+#: wpv_common/shortcodes/portfolio.php:21
+msgid "Read more"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:108
+#: wpv_common/shortcodes/generator/widget.php:75
+msgid "Group"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:110
+msgid "If the option is on, the lightbox will display left and right arrow."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/portfolio.php:115
+msgid "Long description"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:8
+msgid "Image %d"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:20
+msgid "Number of columns"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:29
+#: wpv_common/shortcodes/generator/slider.php:19
+msgid "Number of slides"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:38
+#: wpv_common/shortcodes/generator/video.php:44
+#: wpv_common/shortcodes/generator/slider.php:28
+#: wpv_common/shortcodes/generator/iframe.php:14
+msgid "Width"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:39
+#: wpv_common/shortcodes/generator/slider.php:29
+msgid "Set it to 0 for maximum width"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:55
+#: wpv_common/shortcodes/generator/slider.php:55
+msgid "Effect"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:62
+#: wpv_common/shortcodes/generator/slider.php:62
+msgid "Animation speed"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:84
+#: wpv_common/shortcodes/generator/slider.php:91
+msgid "Annotation"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/showcase.php:85
+msgid ""
+"If anything is entered in this field, it will be displayed as a static first "
+"column"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:7
+#: wpv_common/shortcodes/generator/widget.php:37
+#: wpv_common/shortcodes/generator/widget.php:86
+msgid "Count"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:8
+msgid "Number of posts to show per page"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:32
+msgid "Split"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:34
+msgid ""
+"You can split the blog over several columns. This option works only if the "
+"blog shortcode is not inside a column shortcode"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:46
+#: wpv_common/shortcodes/generator/sitemap.php:123
+#: wpv_common/shortcodes/generator/sitemap.php:161
+msgid "Category (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:53
+#: wpv_common/shortcodes/generator/sitemap.php:130
+msgid "Posts (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:54
+msgid ""
+"If you select any posts here, this option will override the category option "
+"above"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:63
+msgid "If the option is on, it will display Featured Image of blog post"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:68
+msgid "Image position"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:79
+msgid "Meta Information"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:81
+msgid "If the option is on, it will display Meta Information of blog post"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:86
+msgid "Display Full Post"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:88
+msgid ""
+"If the option is on, it will display the content of the post, otherwise it "
+"will display the excerpt"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:93
+msgid "Nopaging"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/blog.php:100
+msgid "News style"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/chart.php:8
+msgid ""
+"<a href=\"http://techtracer.com/2007/12/17/the-power-of-google-chart-api/"
+"\">Google Chart API Tutorial</a>"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/toggle.php:3
+msgid "Toggle"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/toggle.php:19
+msgid "Load closed"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/table.php:3
+msgid "Table"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/table.php:8
+msgid ""
+"Please insert a valid HTML table, you can use thead and tfood if you wish"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slogan.php:3
+msgid "Slogan"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slogan.php:25
+msgid "Use 'carved' button"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slogan.php:31
+msgid "No padding"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slogan.php:44
+msgid "Text color"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:3
+msgid "Video"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:12
+msgid "Poster Image"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:13
+msgid ""
+"The poster image is placeholder for the video before it plays. It's also "
+"used as the image fallback for devices that don't support HTML5 Video or "
+"Flash. "
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:20
+msgid "MP4 Source"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:21
+msgid ""
+"Supported by Webkit browsers (Safari, Chrome, iPhone/iPad) and Internet "
+"Explorer 9. Also supported by Flash 9 and higher, so can double as the Flash "
+"source."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:28
+msgid "WebM Source"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:29
+msgid "Supported by newer versions of Firefox, Chrome, and Opera."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:36
+msgid "Ogg Source"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:37
+msgid ""
+"Supported by Firefox, Opera, Chrome, and newer versions of Safari. "
+"Unfortunately it's not as good as WebM and MP4."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:62
+msgid "Preload"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:64
+msgid ""
+"Select this if you want the video to start downloading as soon the user "
+"loads the page."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:69
+msgid "Autoplay"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:71
+msgid ""
+"Select this if you want the video to start playing as soon as the page is "
+"loaded."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:82
+#: wpv_common/shortcodes/generator/iframe.php:7
+msgid "Src"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:83
+msgid "Specifies the location (URL) of the movie to be loaded"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:108
+msgid "Play"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:110
+msgid ""
+"Specifies whether the movie begins playing immediately on loading in the "
+"browser."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:115
+msgid "flashvars (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:116
+msgid "variable to pass to Flash Player."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:129
+#: wpv_common/shortcodes/generator/video.php:159
+#: wpv_common/shortcodes/generator/video.php:196
+msgid "Video url"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:183
+#: wpv_common/shortcodes/generator/lightbox.php:71
+msgid "Inline"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/video.php:185
+msgid "Whether to display title on video."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:13
+msgid "Id (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:19
+msgid "Class (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:54
+msgid "Link Target (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:59
+msgid "Load in a new window"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:60
+msgid "Load in the same frame as it was clicked"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:61
+msgid "Load in the parent frameset"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:62
+msgid "Load in the full body of the window"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:67
+msgid "Text color (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:74
+#: wpv_common/shortcodes/generator/styled_boxes.php:36
+msgid "Background Color (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:78
+msgid "Dark"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:79
+msgid "Light"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:80
+msgid "Red"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:81
+msgid "Green"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/buttons.php:82
+msgid "Blue"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tooltip.php:7
+msgid "Tooltip content"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tooltip.php:13
+msgid "Tooltip trigger"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/divider.php:3
+msgid "Divider"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/divider.php:11
+msgid "Divider Line (1)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/divider.php:12
+msgid "Divider Line (2)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/divider.php:13
+msgid "Divider Line (3)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/divider.php:14
+msgid "Clear Both"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:16
+#: wpv_common/shortcodes/generator/sitemap.php:36
+#: wpv_common/shortcodes/sitemap.php:150
+msgid "Pages"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:19
+#: wpv_common/shortcodes/generator/sitemap.php:140
+#: wpv_common/shortcodes/sitemap.php:153
+msgid "Portfolios"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:24
+#: wpv_common/shortcodes/generator/sitemap.php:50
+#: wpv_common/shortcodes/generator/sitemap.php:90
+#: wpv_common/shortcodes/generator/sitemap.php:113
+#: wpv_common/shortcodes/generator/sitemap.php:151
+msgid "number"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:25
+#: wpv_common/shortcodes/generator/sitemap.php:51
+#: wpv_common/shortcodes/generator/sitemap.php:114
+#: wpv_common/shortcodes/generator/sitemap.php:152
+msgid "Sets the number of Pages to display.<br> 0: Display all Pages."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:40
+#: wpv_common/shortcodes/generator/sitemap.php:80
+msgid "depth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:41
+msgid ""
+"This parameter controls how many levels in the hierarchy of Pages are to be "
+"included. <br> 0: Displays pages at any depth and arranges them "
+"hierarchically in nested lists<br> -1: Displays pages at any depth and "
+"arranges them in a single, flat list<br> 1: Displays top-level Pages "
+"only<br> 2, 3 … Displays Pages to the given depth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:66
+msgid "Show Count"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:68
+msgid "Toggles the display of the current count of posts in each category."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:73
+msgid "Show Feed"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:75
+msgid ""
+"Display a link to each category's <a href='http://codex.wordpress.org/"
+"Glossary#RSS' target='_blank'>rss-2</a> feed."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:81
+msgid ""
+"This parameter controls how many levels in the hierarchy of Categories are "
+"to be included. <br> 0: Displays pages at any depth and arranges them "
+"hierarchically in nested lists<br> -1: Displays pages at any depth and "
+"arranges them in a single, flat list<br> 1: Displays top-level Pages "
+"only<br> 2, 3 … Displays Pages to the given depth"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:91
+msgid ""
+"Sets the number of Categories to display.<br> 0: Display all Categories."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:106
+#: wpv_common/shortcodes/generator/sitemap.php:144
+msgid "Show Comment"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:108
+#: wpv_common/shortcodes/generator/sitemap.php:146
+msgid " "
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:131
+msgid "The specific posts you want to display"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:3
+msgid "Styled Boxes"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:8
+msgid "Framed Box"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:42
+msgid "Text Color (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:48
+msgid "Rounded"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:56
+msgid "Message Boxes"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:64
+msgid "Info"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:65
+msgid "Success"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:66
+msgid "Error"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:67
+msgid "Notice"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:80
+msgid "Note Box"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:84
+msgid "Title (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:97
+msgid "You may not see the results in the preview if it is too narrow"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:102
+msgid "left"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:103
+msgid "right"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:104
+msgid "center"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:13
+msgid "Href"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:21
+msgid "The title you want to display on the bottom of the lightbox."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:28
+msgid "Group (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:29
+msgid ""
+"This allows the user to group any combination of elements together for a "
+"gallery."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:36
+msgid "Set a width. Example: '100%', '500px', or 500"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:44
+msgid "Set a height. Example: '100%', '500px', or 500"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:51
+msgid "CSS class (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:57
+#: wpv_common/shortcodes/generator/iframe.php:3
+msgid "Iframe"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:59
+msgid "If 'true' specifies that content should be displayed in an iFrame."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:64
+msgid "Photo"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:66
+msgid ""
+"If true, this setting forces Lightbox to display a link as a photo. Use this "
+"when automatic photo detection fails (such as using a url like 'photo.php' "
+"instead of 'photo.jpg', 'photo.jpg#1', or 'photo.jpg?pic=1')"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:73
+msgid ""
+"If 'true' lightbox can be used to display content from the inline html. "
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:78
+msgid "Inline Id"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:79
+msgid "unique id for inline content."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:85
+msgid "Inline Html"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:86
+msgid "You can use shortcode here."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/lightbox.php:92
+msgid "Display Close Button"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:7
+msgid "Number of tabs"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:22
+msgid "With background"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:26
+msgid "Autorotate delay (in ms)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:27
+msgid "Set to 0 for manual rotation"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:36
+msgid "Vertical tabs"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:42
+#: wpv_common/shortcodes/generator/tabs.php:54
+#: wpv_common/shortcodes/generator/tabs.php:66
+#: wpv_common/shortcodes/generator/tabs.php:78
+#: wpv_common/shortcodes/generator/tabs.php:90
+#: wpv_common/shortcodes/generator/tabs.php:102
+#: wpv_common/shortcodes/generator/tabs.php:114
+#: wpv_common/shortcodes/generator/tabs.php:126
+msgid "Tab %d Title"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/tabs.php:48
+#: wpv_common/shortcodes/generator/tabs.php:60
+#: wpv_common/shortcodes/generator/tabs.php:72
+#: wpv_common/shortcodes/generator/tabs.php:84
+#: wpv_common/shortcodes/generator/tabs.php:96
+#: wpv_common/shortcodes/generator/tabs.php:108
+#: wpv_common/shortcodes/generator/tabs.php:120
+#: wpv_common/shortcodes/generator/tabs.php:132
+msgid "Tab %d Content"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:3
+msgid "Widget"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:8
+msgid "Contact Form"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:12
+#: wpv_common/shortcodes/generator/widget.php:146
+msgid "email"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:18
+msgid "Success Text"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:26
+msgid "Twitter"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:30
+msgid "Username"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:31
+msgid "Use ',' separate multi user.<br> (e.g <code>user1,user2</code>)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:47
+msgid "Avatar Size (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:48
+msgid "Height and width of avatar if displayed"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:57
+msgid "Query (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:58
+msgid ""
+"uses <a href='http://apiwiki.twitter.com/Twitter-Search-API-Method%3A-"
+"search' target='_blank'>Twitter's Search API</a>, so you can display any "
+"tweets you like."
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:66
+msgid "Flickr"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:74
+msgid "User"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:80
+msgid "Flickr id (<a href='http://idgettr.com/' target='_blank'>idGettr</a>)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:96
+msgid "Display"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:100
+#: wpv_common/widgets/tpl/flickr-config.php:27
+msgid "Latest"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:101
+#: wpv_common/widgets/tpl/flickr-config.php:28 wpv_common/helpers/base.php:44
+msgid "Random"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:108
+msgid "Contact Info"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:132
+#: wpv_common/shortcodes/generator/team_member.php:31
+msgid "Phone"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:139
+msgid "Cell Phone"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:152
+msgid "Address"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:159
+msgid "City"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:166
+msgid "State"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:173
+msgid "Zip"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/widget.php:180
+#: wpv_common/shortcodes/generator/team_member.php:7 comments.php:78
+#: comments.php:79
+msgid "Name"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:3
+msgid "Google Map"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:8
+msgid "set to 0 is the full width"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:26
+msgid "Address (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:33
+msgid "Latitude"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:40
+msgid "longitude"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:47
+msgid "Zoom"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:56
+msgid "Marker"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:62
+msgid "Html"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:69
+msgid "Popup Marker"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:75
+msgid "Controls (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:82
+msgid "Scrollwheel"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:88
+msgid "Maptype (optional)"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:93
+msgid "Default road map"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:94
+msgid "Google Earth satellite"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:95
+msgid "Mixture of normal and satellite"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:96
+msgid "Mixture of above three maps"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/gmap.php:97
+msgid "Physical map"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slider.php:8
+msgid "Slide %d"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slider.php:15
+msgid "Sliders"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slider.php:38
+msgid "If you set it to 0 the slider will be as high as the highest slide"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slider.php:46
+msgid "Caption opacity"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/slider.php:92
+msgid "Some styles may use this instead of or in addition to a caption"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/team_member.php:3
+msgid "Team member"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/team_member.php:13
+msgid "Position"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/team_member.php:25 comments.php:80
+#: comments.php:81
+msgid "Email"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/team_member.php:37
+msgid "Picture url"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services.php:3
+msgid "Services"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services.php:65
+msgid "Description size"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services.php:73
+msgid "Use a link instead of a button"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services.php:79
+msgid "Use full width image"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services.php:85
+msgid "Class"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/iframe.php:15
+msgid "You can use % or px as units for width"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/iframe.php:23
+msgid "You can use % or px as units for height"
+msgstr ""
+
+#: wpv_common/shortcodes/showcase.php:67 wpv_common/shortcodes/slider.php:77
+#: wpv_common/helpers/wpv-pagination.php:37
+msgid "Previous"
+msgstr ""
+
+#: wpv_common/shortcodes/showcase.php:68 wpv_common/shortcodes/slider.php:78
+#: wpv_common/helpers/wpv-pagination.php:45
+msgid "Next"
+msgstr ""
+
+#: wpv_common/shortcodes/video.php:69
+msgid "No video playback capabilities."
+msgstr ""
+
+#: wpv_common/shortcodes/sitemap.php:47
+msgid "RSS"
+msgstr ""
+
+#: wpv_common/shortcodes/sitemap.php:89 wpv_common/shortcodes/sitemap.php:128
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: wpv_common/shortcodes/sitemap.php:162
+msgid "Top"
+msgstr ""
+
+#: wpv_common/widgets/advertisement.php:14
+msgid "Displays ads"
+msgstr ""
+
+#: wpv_common/widgets/advertisement.php:16
+msgid "Vamtam - Advertisement"
+msgstr ""
+
+#: wpv_common/widgets/tpl/contactform-config.php:2
+#: wpv_common/widgets/tpl/twitter-config.php:2
+#: wpv_common/widgets/tpl/posts-config.php:2
+#: wpv_common/widgets/tpl/post-formats-config.php:2
+#: wpv_common/widgets/tpl/authors-config.php:2
+#: wpv_common/widgets/tpl/flickr-config.php:2
+#: wpv_common/widgets/tpl/advertisement-config.php:2
+#: wpv_common/widgets/tpl/social-config.php:2
+#: wpv_common/widgets/tpl/gmap-config.php:2
+#: wpv_common/widgets/tpl/subpages-config.php:2
+#: wpv_common/widgets/contactinfo.php:14
+msgid "Title:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/contactform-config.php:7
+msgid "Send emails to:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/twitter-config.php:7
+msgid "Usernames (separate with comas):"
+msgstr ""
+
+#: wpv_common/widgets/tpl/twitter-config.php:12
+msgid "height and width of avatar if displayed (48px max)(optional)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/twitter-config.php:17
+msgid "How many tweets to display?"
+msgstr ""
+
+#: wpv_common/widgets/tpl/twitter-config.php:22
+msgid "Query (optional):"
+msgstr ""
+
+#: wpv_common/widgets/tpl/twitter-config.php:27
+msgid ""
+"Query uses <a href='http://apiwiki.twitter.com/Twitter-Search-API-Method%3A-"
+"search' target='_blank'>Twitter's Search API</a>, so you can display any "
+"tweets you like."
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:7
+msgid "Number of posts to show:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:12
+msgid "Display:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:14
+msgid "Popular posts"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:15
+msgid "Recent posts"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:16
+msgid "Recent Comments"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:22
+msgid "Disable Post Thumbnail?"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:26
+msgid "Length of Description to show:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/contactform-widget.php:15
+#: wpv_common/widgets/tpl/contactform-widget.php:16
+msgid "Name (required)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/contactform-widget.php:20
+#: wpv_common/widgets/tpl/contactform-widget.php:21
+msgid "Email (required)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/post-formats-config.php:7
+msgid "Tooltip:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/contactinfo-config.php:2
+msgid "Icons Color:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/post-formats-widget.php:2
+msgid "Standard"
+msgstr ""
+
+#: wpv_common/widgets/tpl/post-formats-widget.php:4
+msgid "View all %format posts"
+msgstr ""
+
+#: wpv_common/widgets/tpl/authors-config.php:7
+msgid "How many authors to display?"
+msgstr ""
+
+#: wpv_common/widgets/tpl/authors-config.php:24
+msgid "Author:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/authors-config.php:35
+msgid "Author Description (optional):"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-widget.php:35
+msgid "on"
+msgstr ""
+
+#: wpv_common/widgets/tpl/flickr-config.php:7
+msgid "Type:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/flickr-config.php:15
+msgid ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr ""
+
+#: wpv_common/widgets/tpl/flickr-config.php:20
+msgid "Number of photo to show:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/flickr-config.php:25
+msgid "Method for display your photos:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-widget.php:13
+msgid "Advertisment"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-widget.php:14
+msgid "Advertisement"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-config.php:7
+msgid "How many ad spots to display?"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-config.php:16
+msgid ""
+"Note: Please input <strong>full url</strong> <br/> (e.g. <code>http://"
+"example.com</code>)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-config.php:27
+msgid "Image URL:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-config.php:31
+msgid "Link:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:7
+msgid "Icon Alt Title:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:12
+msgid "Icon Package:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:21
+msgid "Icon Hover Animation:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:23
+msgid "Fade"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:24
+msgid "Scale"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:25
+msgid "Bounce"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:26
+msgid "Combo"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:31
+msgid "Enable Social Icon:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:41
+msgid "Note: Please input FULL URL <br/>(e.g. <code>http://example.com</code>)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:47
+#: wpv_common/widgets/tpl/social-config.php:76
+msgid "URL:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:54
+msgid "How many custom icons to add?"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:71
+#: wpv_common/widgets/contactinfo.php:23
+msgid "Name:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:81
+msgid "Icon:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:7
+#: wpv_common/widgets/contactinfo.php:19
+msgid "Address:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:9
+msgid "Choose either an address or latitute and logtitude"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:13
+msgid "Latitude:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:18
+msgid "Longitude:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:23
+msgid "Zoom level:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:32
+msgid "Content for the marker:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:38
+msgid "Auto popup the info?"
+msgstr ""
+
+#: wpv_common/widgets/tpl/gmap-config.php:42
+msgid "Height:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/subpages-config.php:7
+msgid "Sort by:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/subpages-config.php:9
+msgid "Page order"
+msgstr ""
+
+#: wpv_common/widgets/tpl/subpages-config.php:10
+msgid "Page title"
+msgstr ""
+
+#: wpv_common/widgets/tpl/subpages-config.php:11
+msgid "Page ID"
+msgstr ""
+
+#: wpv_common/widgets/tpl/subpages-config.php:16
+msgid "Exclude:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/subpages-config.php:19
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: wpv_common/widgets/contactform.php:11
+msgid "Displays a email contact form."
+msgstr ""
+
+#: wpv_common/widgets/contactform.php:13
+msgid "Vamtam - Contact Form"
+msgstr ""
+
+#: wpv_common/widgets/contactform.php:18
+msgid "Email Us"
+msgstr ""
+
+#: wpv_common/widgets/social.php:33
+msgid "Displays a list of Social Icon icons"
+msgstr ""
+
+#: wpv_common/widgets/social.php:35
+msgid "Vamtam - Social Icons"
+msgstr ""
+
+#: wpv_common/widgets/post-formats.php:8
+msgid "A list or dropdown of Post Formats"
+msgstr ""
+
+#: wpv_common/widgets/post-formats.php:10
+msgid "Vamtam - Post Formats"
+msgstr ""
+
+#: wpv_common/widgets/post-formats.php:16
+msgid "Post Formats"
+msgstr ""
+
+#: wpv_common/widgets/twitter.php:12
+msgid "Displays a twitter feed"
+msgstr ""
+
+#: wpv_common/widgets/twitter.php:14
+msgid "Vamtam - Twitter"
+msgstr ""
+
+#: wpv_common/widgets/twitter.php:19
+msgid "Recent Tweets"
+msgstr ""
+
+#: wpv_common/widgets/gmap.php:11
+msgid "Displays a google map."
+msgstr ""
+
+#: wpv_common/widgets/gmap.php:13
+msgid "Vamtam - Gmap"
+msgstr ""
+
+#: wpv_common/widgets/authors.php:14
+msgid "List of authors and their descriptions"
+msgstr ""
+
+#: wpv_common/widgets/authors.php:16
+msgid "Vamtam - Authors"
+msgstr ""
+
+#: wpv_common/widgets/authors.php:21
+msgid "Authors"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:9
+msgid "Display contact information."
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:11
+msgid "Vamtam - Contact Info"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:15
+msgid "Introduction text:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:16
+msgid "Phone:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:17
+msgid "Cell phone:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:18
+msgid "Email:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:20
+msgid "City:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:21
+msgid "State:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:22
+msgid "ZIP/Postcode:"
+msgstr ""
+
+#: wpv_common/widgets/contactinfo.php:33
+msgid "Contact Us"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:12
+msgid "Displays a list of posts/comments"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:14
+msgid "Vamtam - Posts/Comments"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:82
+msgid "Popular"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:84
+msgid "Newest"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:86 comments.php:55
+msgid "Comments"
+msgstr ""
+
+#: wpv_common/widgets/flickr.php:12
+msgid "Displays photos from Flickr"
+msgstr ""
+
+#: wpv_common/widgets/flickr.php:14
+msgid "Vamtam - Flickr"
+msgstr ""
+
+#: wpv_common/widgets/flickr.php:19
+msgid "Photos on flickr"
+msgstr ""
+
+#: wpv_common/widgets/subpages.php:12
+msgid "Displays a list of SubPages"
+msgstr ""
+
+#: wpv_common/widgets/subpages.php:14
+msgid "Vamtam - List subpages"
+msgstr ""
+
+#: wpv_common/helpers/sidebars.php:13
+msgid "Shared Page Widget Area"
+msgstr ""
+
+#: wpv_common/helpers/sidebars.php:14
+msgid "Blog Widget Area"
+msgstr ""
+
+#: wpv_common/helpers/sidebars.php:15
+msgid "Portfolio Widget Area"
+msgstr ""
+
+#: wpv_common/helpers/template.php:225
+msgid "<span></span><b>Previous</b>"
+msgstr ""
+
+#: wpv_common/helpers/template.php:227
+msgid "<span></span><b>Next</b>"
+msgstr ""
+
+#: wpv_common/helpers/template.php:270
+msgid "Load more"
+msgstr ""
+
+#: wpv_common/helpers/template.php:378
+msgid "Leave a comment"
+msgstr ""
+
+#: wpv_common/helpers/template.php:378
+msgid "1 Comment"
+msgstr ""
+
+#: wpv_common/helpers/template.php:378
+msgid "% Comments"
+msgstr ""
+
+#: wpv_common/helpers/template.php:380
+msgid "Edit"
+msgstr ""
+
+#: wpv_common/helpers/template.php:407 wpv_common/helpers/template.php:433
+msgid "(Edit)"
+msgstr ""
+
+#: wpv_common/helpers/template.php:414
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: wpv_common/helpers/template.php:433
+msgid "Pingback:"
+msgstr ""
+
+#: wpv_common/helpers/template.php:447
+msgid "%2$s <span class=\"meta-sep\">|</span> by %3$s"
+msgstr ""
+
+#: wpv_common/helpers/template.php:456
+msgid "View all posts by %s"
+msgstr ""
+
+#: wpv_common/helpers/template.php:471
+msgid "Posted in %1$s <span class=\"meta-sep\">|</span> tags %2$s"
+msgstr ""
+
+#: wpv_common/helpers/template.php:473
+msgid "Posted in %1$s"
+msgstr ""
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:8
+msgid "Home"
+msgstr ""
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:28
+msgid "Archive by category"
+msgstr ""
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:85
+msgid "Search results for"
+msgstr ""
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:88
+msgid "Posts tagged"
+msgstr ""
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:93
+msgid "Articles posted by"
+msgstr ""
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:96
+msgid "Error 404"
+msgstr ""
+
+#: wpv_common/helpers/base.php:19
+msgid "Crop"
+msgstr ""
+
+#: wpv_common/helpers/base.php:20
+msgid "Crop at the top"
+msgstr ""
+
+#: wpv_common/helpers/base.php:21
+msgid "Fit"
+msgstr ""
+
+#: wpv_common/helpers/base.php:22
+msgid "Stretch"
+msgstr ""
+
+#: wpv_common/helpers/base.php:32
+msgid "Right to left"
+msgstr ""
+
+#: wpv_common/helpers/base.php:33
+msgid "Left to right"
+msgstr ""
+
+#: wpv_common/helpers/base.php:34
+msgid "Bottom to top"
+msgstr ""
+
+#: wpv_common/helpers/base.php:35
+msgid "Top to bottom"
+msgstr ""
+
+#: wpv_common/helpers/base.php:36
+msgid "Right to left / snake"
+msgstr ""
+
+#: wpv_common/helpers/base.php:37
+msgid "Left to right / snake"
+msgstr ""
+
+#: wpv_common/helpers/base.php:38
+msgid "Bottom to top / snake"
+msgstr ""
+
+#: wpv_common/helpers/base.php:39
+msgid "Top to bottom / snake"
+msgstr ""
+
+#: wpv_common/helpers/base.php:40
+msgid "Bottom right to top left"
+msgstr ""
+
+#: wpv_common/helpers/base.php:41
+msgid "Top left to bottom right"
+msgstr ""
+
+#: wpv_common/helpers/base.php:42
+msgid "Bottom left to top right"
+msgstr ""
+
+#: wpv_common/helpers/base.php:43
+msgid "Top right to bottom left"
+msgstr ""
+
+#: wpv_common/helpers/base.php:645
+msgid "Could not read image size"
+msgstr ""
+
+#: wpv_common/helpers/base.php:650
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: single-audio.php:25
+msgid "play"
+msgstr ""
+
+#: single-audio.php:26
+msgid "pause"
+msgstr ""
+
+#: single-audio.php:27
+msgid "stop"
+msgstr ""
+
+#: single-audio.php:28
+msgid "mute"
+msgstr ""
+
+#: single-audio.php:29
+msgid "unmute"
+msgstr ""
+
+#: single-audio.php:30
+msgid "max volume"
+msgstr ""
+
+#: comments.php:20 comments.php:57
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:65
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:70
+msgid ""
+"You must be <a href=\"%s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:82 comments.php:83
+msgid "Website"
+msgstr ""
+
+#: comments.php:85
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: 404.php:17
+msgid "Or start from the home page"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:3 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Zenden"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://vamtam.com/zenden"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Theme with powerful back-end framework."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://vamtam.com"
+msgstr ""

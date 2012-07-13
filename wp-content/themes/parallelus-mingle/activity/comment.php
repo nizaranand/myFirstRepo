@@ -1,0 +1,44 @@
+<?php do_action( 'bp_before_activity_comment' ); ?>
+
+<li id="acomment-<?php bp_activity_comment_id(); ?>">
+	<div class="acomment-avatar">
+		<a href="<?php bp_activity_comment_user_link(); ?>">
+			<?php 
+			// Get the avatar for the current user
+			$URL = bp_core_fetch_avatar( array( 'type' => 'full', 'html' => 'false', 'width' => 64, 'height' => 64, 'item_id' => bp_get_activity_comment_user_id() ) );
+			$avatarURL = bp_theme_avatar_url(64,64, '', $URL);
+			echo '<div class="avatar" style="background-image: url(\''.$avatarURL.'\');"></div>';
+	
+			//bp_activity_avatar( 'type=thumb&user_id=' . bp_get_activity_comment_user_id() ); ?>
+		</a>
+	</div>
+
+	<div class="acomment-meta">
+		<?php
+		/* translators: 1: user profile link, 2: user name, 3: activity permalink, 3: activity timestamp */
+		printf( __( '<a href="%1$s">%2$s</a> replied <a href="%3$s" class="activity-time-since"><span class="time-since">%4$s</span></a>', 'buddypress' ), bp_get_activity_comment_user_link(), bp_get_activity_comment_name(), bp_get_activity_thread_permalink(), bp_get_activity_comment_date_recorded() );
+		?>
+		<span class="acomment-options">
+	
+			<?php if ( is_user_logged_in() && bp_activity_can_comment_reply( bp_activity_current_comment() ) ) : ?>
+	
+				<span class="sep">/</span> <a href="#acomment-<?php bp_activity_comment_id(); ?>" class="acomment-reply bp-primary-action" id="acomment-reply-<?php bp_activity_id() ?>-from-<?php bp_activity_comment_id() ?>"><?php _e( 'Reply', 'buddypress' ); ?></a>
+	
+			<?php endif; ?>
+	
+			<?php if ( bp_activity_user_can_delete() ) : ?>
+	
+				<span class="sep">/</span> <a href="<?php bp_activity_comment_delete_link(); ?>" class="delete acomment-delete confirm bp-secondary-action" rel="nofollow"><?php _e( 'Delete', 'buddypress' ); ?></a>
+	
+			<?php endif; ?>
+	
+		</span>
+	</div>
+
+	<div class="acomment-content"><?php bp_activity_comment_content(); ?></div>
+
+
+	<?php bp_activity_recurse_comments( bp_activity_current_comment() ); ?>
+</li>
+
+<?php do_action( 'bp_after_activity_comment' ); ?>
